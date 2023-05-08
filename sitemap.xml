@@ -64,4 +64,214 @@
     <priority>0.5</priority>
   </url>
   
+  <url>
+    <loc>http://xingjingyuan.github.io/links/</loc>
+    <lastmod>2023-05-08T14:29:44+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://xingjingyuan.github.io/post/2-toc/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://xingjingyuan.github.io/tags/development/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://xingjingyuan.github.io/categories/development/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://xingjingyuan.github.io/tags/golang/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://xingjingyuan.github.io/categories/golang/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://xingjingyuan.github.io/tags/templates/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://xingjingyuan.github.io/tags/themes/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://xingjingyuan.github.io/tags/toc/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://xingjingyuan.github.io/categories/demo/</loc>
+    <lastmod>2019-03-05T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://xingjingyuan.github.io/post/5-math/</loc>
+    <lastmod>2019-03-05T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://xingjingyuan.github.io/tags/math/</loc>
+    <lastmod>2019-03-05T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://xingjingyuan.github.io/categories/math/</loc>
+    <lastmod>2019-03-05T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://xingjingyuan.github.io/tags/preview/</loc>
+    <lastmod>2019-03-05T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://xingjingyuan.github.io/tags/tag-6/</loc>
+    <lastmod>2019-03-05T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://xingjingyuan.github.io/post/7-shortcodes-preview/</loc>
+    <lastmod>2018-03-05T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://xingjingyuan.github.io/tags/shortcodes/</loc>
+    <lastmod>2018-03-05T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://xingjingyuan.github.io/categories/shortcodes/</loc>
+    <lastmod>2018-03-05T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://xingjingyuan.github.io/post/1-image/</loc>
+    <lastmod>2018-03-04T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://xingjingyuan.github.io/post/6-shortcode-notice/</loc>
+    <lastmod>2018-03-04T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://xingjingyuan.github.io/tags/image/</loc>
+    <lastmod>2018-03-04T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://xingjingyuan.github.io/tags/tag-7/</loc>
+    <lastmod>2018-03-04T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://xingjingyuan.github.io/post/4-footnote/</loc>
+    <lastmod>2018-03-01T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://xingjingyuan.github.io/tags/footnote/</loc>
+    <lastmod>2018-03-01T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://xingjingyuan.github.io/tags/markdown/</loc>
+    <lastmod>2018-03-01T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://xingjingyuan.github.io/tags/tag-11/</loc>
+    <lastmod>2018-03-01T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://xingjingyuan.github.io/post/3-syntax-highlighting/</loc>
+    <lastmod>2017-08-30T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://xingjingyuan.github.io/tags/syntax-highlighting/</loc>
+    <lastmod>2017-08-30T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://xingjingyuan.github.io/categories/syntax-highlighting/</loc>
+    <lastmod>2017-08-30T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://xingjingyuan.github.io/tags/tag-5/</loc>
+    <lastmod>2017-08-30T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
 </urlset>

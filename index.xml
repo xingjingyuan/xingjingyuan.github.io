@@ -38,5 +38,914 @@
       
     </item>
     
+    <item>
+      <title>Links</title>
+      <link>http://xingjingyuan.github.io/links/</link>
+      <pubDate>Mon, 08 May 2023 14:29:44 +0800</pubDate>
+      
+      <guid>http://xingjingyuan.github.io/links/</guid>
+      
+        <description>&lt;p&gt;links&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Demo: toc</title>
+      <link>http://xingjingyuan.github.io/post/2-toc/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://xingjingyuan.github.io/post/2-toc/</guid>
+      
+        <description>&lt;h2 id=&#34;header&#34;&gt;Header&lt;/h2&gt;
+&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;
+&lt;h2 id=&#34;header-1&#34;&gt;Header&lt;/h2&gt;
+&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;
+&lt;h2 id=&#34;header-2&#34;&gt;Header&lt;/h2&gt;
+&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;
+&lt;h3 id=&#34;subheader&#34;&gt;SubHeader&lt;/h3&gt;
+&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;
+&lt;h3 id=&#34;this-is-very-long-subheader--this-is-very-long-subheader--this-is-very-long-subheader-this-is-very-long-subheader--this-is-very-long-subheader-this-is-very-long-subheader&#34;&gt;This is very long SubHeader,  This is very long SubHeader,  This is very long SubHeader, This is very long SubHeader,  This is very long SubHeader, This is very long SubHeader&lt;/h3&gt;
+&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;
+&lt;h3 id=&#34;subheader-1&#34;&gt;SubHeader&lt;/h3&gt;
+&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;
+&lt;h2 id=&#34;header-3&#34;&gt;Header&lt;/h2&gt;
+&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;
+&lt;h2 id=&#34;header-4&#34;&gt;Header&lt;/h2&gt;
+&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;
+&lt;h2 id=&#34;header-5&#34;&gt;Header&lt;/h2&gt;
+&lt;h2 id=&#34;header-6&#34;&gt;Header&lt;/h2&gt;
+&lt;h3 id=&#34;subheader-2&#34;&gt;SubHeader&lt;/h3&gt;
+&lt;h3 id=&#34;subheader-3&#34;&gt;SubHeader&lt;/h3&gt;
+&lt;h4 id=&#34;h4&#34;&gt;H4&lt;/h4&gt;
+&lt;h4 id=&#34;h4-1&#34;&gt;H4&lt;/h4&gt;
+&lt;h5 id=&#34;h5&#34;&gt;H5&lt;/h5&gt;
+&lt;h6 id=&#34;h6&#34;&gt;H6&lt;/h6&gt;
+&lt;h2 id=&#34;header-7&#34;&gt;Header&lt;/h2&gt;
+&lt;h2 id=&#34;header-8&#34;&gt;Header&lt;/h2&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Demo: Math</title>
+      <link>http://xingjingyuan.github.io/post/5-math/</link>
+      <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
+      
+      <guid>http://xingjingyuan.github.io/post/5-math/</guid>
+      
+        <description>&lt;p&gt;&lt;a href=&#34;https://www.intmath.com/cg5/katex-mathjax-comparison.php&#34;&gt;KaTeX and MathJax Comparison Demo, currently processed as KaTeX&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;repeating-fractions&#34;&gt;Repeating fractions&lt;/h2&gt;
+&lt;p&gt;$$
+\frac{1}{\Bigl(\sqrt{\phi \sqrt{5}}-\phi\Bigr) e^{\frac25 \pi}} \equiv 1+\frac{e^{-2\pi}} {1+\frac{e^{-4\pi}} {1+\frac{e^{-6\pi}} {1+\frac{e^{-8\pi}} {1+\cdots} } } }
+$$&lt;/p&gt;
+&lt;h2 id=&#34;summation-notation&#34;&gt;Summation notation&lt;/h2&gt;
+&lt;p&gt;$$
+\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+$$&lt;/p&gt;
+&lt;h2 id=&#34;sum-of-a-series&#34;&gt;Sum of a Series&lt;/h2&gt;
+&lt;p&gt;I broke up the next two examples into separate lines so it behaves better on a mobile phone. That&amp;rsquo;s why they include \displaystyle.&lt;/p&gt;
+&lt;p&gt;$$
+\displaystyle\sum_{i=1}^{k+1}i
+$$&lt;/p&gt;
+&lt;p&gt;$$
+\displaystyle= \left(\sum_{i=1}^{k}i\right) +(k+1)
+$$&lt;/p&gt;
+&lt;p&gt;$$
+\displaystyle= \frac{k(k+1)}{2}+k+1
+$$&lt;/p&gt;
+&lt;p&gt;$$
+\displaystyle= \frac{k(k+1)+2(k+1)}{2}
+$$&lt;/p&gt;
+&lt;p&gt;$$
+\displaystyle= \frac{(k+1)(k+2)}{2}
+$$&lt;/p&gt;
+&lt;p&gt;$$
+\displaystyle= \frac{(k+1)((k+1)+1)}{2}
+$$&lt;/p&gt;
+&lt;h2 id=&#34;product-notation&#34;&gt;Product notation&lt;/h2&gt;
+&lt;p&gt;$$
+\displaystyle 1 + \frac{q^2}{(1-q)}+\frac{q^6}{(1-q)(1-q^2)}+\cdots = \displaystyle \prod_{j=0}^{\infty}\frac{1}{(1-q^{5j+2})(1-q^{5j+3})}, \displaystyle\text{ for }\lvert q\rvert &amp;lt; 1.
+$$&lt;/p&gt;
+&lt;h2 id=&#34;inline-math&#34;&gt;Inline math&lt;/h2&gt;
+&lt;p&gt;And here is some in-line math: $$ k_{n+1} = n^2 + k_n^2 - k_{n-1} $$ , followed by some more text.&lt;/p&gt;
+&lt;h2 id=&#34;greek-letters&#34;&gt;Greek Letters&lt;/h2&gt;
+&lt;p&gt;$$
+\Gamma\ \Delta\ \Theta\ \Lambda\ \Xi\ \Pi\ \Sigma\ \Upsilon\ \Phi\ \Psi\ \Omega
+\alpha\ \beta\ \gamma\ \delta\ \epsilon\ \zeta\ \eta\ \theta\ \iota\ \kappa\ \lambda\ \mu\ \nu\ \xi \ \omicron\ \pi\ \rho\ \sigma\ \tau\ \upsilon\ \phi\ \chi\ \psi\ \omega\ \varepsilon\ \vartheta\ \varpi\ \varrho\ \varsigma\ \varphi
+$$&lt;/p&gt;
+&lt;h2 id=&#34;arrows&#34;&gt;Arrows&lt;/h2&gt;
+&lt;p&gt;$$
+\gets\ \to\ \leftarrow\ \rightarrow\ \uparrow\ \Uparrow\ \downarrow\ \Downarrow\ \updownarrow\ \Updownarrow
+$$&lt;/p&gt;
+&lt;p&gt;$$
+\Leftarrow\ \Rightarrow\ \leftrightarrow\ \Leftrightarrow\ \mapsto\ \hookleftarrow
+\leftharpoonup\ \leftharpoondown\ \rightleftharpoons\ \longleftarrow\ \Longleftarrow\ \longrightarrow
+$$&lt;/p&gt;
+&lt;p&gt;$$
+\Longrightarrow\ \longleftrightarrow\ \Longleftrightarrow\ \longmapsto\ \hookrightarrow\ \rightharpoonup
+$$&lt;/p&gt;
+&lt;p&gt;$$
+\rightharpoondown\ \leadsto\ \nearrow\ \searrow\ \swarrow\ \nwarrow
+$$&lt;/p&gt;
+&lt;h2 id=&#34;symbols&#34;&gt;Symbols&lt;/h2&gt;
+&lt;p&gt;$$
+\surd\ \barwedge\ \veebar\ \odot\ \oplus\ \otimes\ \oslash\ \circledcirc\ \boxdot\ \bigtriangleup
+$$&lt;/p&gt;
+&lt;p&gt;$$
+\bigtriangledown\ \dagger\ \diamond\ \star\ \triangleleft\ \triangleright\ \angle\ \infty\ \prime\ \triangle
+$$&lt;/p&gt;
+&lt;h2 id=&#34;calculus&#34;&gt;Calculus&lt;/h2&gt;
+&lt;p&gt;$$
+\int u \frac{dv}{dx},dx=uv-\int \frac{du}{dx}v,dx
+$$&lt;/p&gt;
+&lt;p&gt;$$
+f(x) = \int_{-\infty}^\infty \hat f(\xi),e^{2 \pi i \xi x}
+$$&lt;/p&gt;
+&lt;p&gt;$$
+\oint \vec{F} \cdot d\vec{s}=0
+$$&lt;/p&gt;
+&lt;h2 id=&#34;lorenz-equations&#34;&gt;Lorenz Equations&lt;/h2&gt;
+&lt;p&gt;$$
+\begin{aligned} \dot{x} &amp;amp; = \sigma(y-x) \ \dot{y} &amp;amp; = \rho x - y - xz \ \dot{z} &amp;amp; = -\beta z + xy \end{aligned}
+$$&lt;/p&gt;
+&lt;h2 id=&#34;cross-product&#34;&gt;Cross Product&lt;/h2&gt;
+&lt;p&gt;This works in KaTeX, but the separation of fractions in this environment is not so good.&lt;/p&gt;
+&lt;p&gt;$$
+\mathbf{V}_1 \times \mathbf{V}_2 = \begin{vmatrix} \mathbf{i} &amp;amp; \mathbf{j} &amp;amp; \mathbf{k} \ \frac{\partial X}{\partial u} &amp;amp; \frac{\partial Y}{\partial u} &amp;amp; 0 \ \frac{\partial X}{\partial v} &amp;amp; \frac{\partial Y}{\partial v} &amp;amp; 0 \end{vmatrix}
+$$&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s a workaround: make the fractions smaller with an extra class that targets the spans with &amp;ldquo;mfrac&amp;rdquo; class (makes no difference in the MathJax case):&lt;/p&gt;
+&lt;p&gt;$$
+\mathbf{V}_1 \times \mathbf{V}_2 = \begin{vmatrix} \mathbf{i} &amp;amp; \mathbf{j} &amp;amp; \mathbf{k} \ \frac{\partial X}{\partial u} &amp;amp; \frac{\partial Y}{\partial u} &amp;amp; 0 \ \frac{\partial X}{\partial v} &amp;amp; \frac{\partial Y}{\partial v} &amp;amp; 0 \end{vmatrix}
+$$&lt;/p&gt;
+&lt;h2 id=&#34;accents&#34;&gt;Accents&lt;/h2&gt;
+&lt;p&gt;$$
+\hat{x}\ \vec{x}\ \ddot{x}
+$$&lt;/p&gt;
+&lt;h2 id=&#34;stretchy-brackets&#34;&gt;Stretchy brackets&lt;/h2&gt;
+&lt;p&gt;$$
+\left(\frac{x^2}{y^3}\right)
+$$&lt;/p&gt;
+&lt;h2 id=&#34;evaluation-at-limits&#34;&gt;Evaluation at limits&lt;/h2&gt;
+&lt;p&gt;$$
+\left.\frac{x^3}{3}\right|_0^1
+$$&lt;/p&gt;
+&lt;h2 id=&#34;case-definitions&#34;&gt;Case definitions&lt;/h2&gt;
+&lt;p&gt;$$
+f(n) = \begin{cases} \frac{n}{2}, &amp;amp; \text{if } n\text{ is even} \ 3n+1, &amp;amp; \text{if } n\text{ is odd} \end{cases}
+$$&lt;/p&gt;
+&lt;h2 id=&#34;maxwells-equations&#34;&gt;Maxwell&amp;rsquo;s Equations&lt;/h2&gt;
+&lt;p&gt;$$
+\begin{aligned} \nabla \times \vec{\mathbf{B}} -, \frac1c, \frac{\partial\vec{\mathbf{E}}}{\partial t} &amp;amp; = \frac{4\pi}{c}\vec{\mathbf{j}} \ \nabla \cdot \vec{\mathbf{E}} &amp;amp; = 4 \pi \rho \ \nabla \times \vec{\mathbf{E}}, +, \frac1c, \frac{\partial\vec{\mathbf{B}}}{\partial t} &amp;amp; = \vec{\mathbf{0}} \ \nabla \cdot \vec{\mathbf{B}} &amp;amp; = 0 \end{aligned}
+$$&lt;/p&gt;
+&lt;p&gt;These equations are quite cramped. We can add vertical spacing using (for example) [1em] after each line break (\). as you can see here:&lt;/p&gt;
+&lt;p&gt;$$
+\begin{aligned} \nabla \times \vec{\mathbf{B}} -, \frac1c, \frac{\partial\vec{\mathbf{E}}}{\partial t} &amp;amp; = \frac{4\pi}{c}\vec{\mathbf{j}} \[1em] \nabla \cdot \vec{\mathbf{E}} &amp;amp; = 4 \pi \rho \[0.5em] \nabla \times \vec{\mathbf{E}}, +, \frac1c, \frac{\partial\vec{\mathbf{B}}}{\partial t} &amp;amp; = \vec{\mathbf{0}} \[1em] \nabla \cdot \vec{\mathbf{B}} &amp;amp; = 0 \end{aligned}
+$$&lt;/p&gt;
+&lt;h2 id=&#34;statistics&#34;&gt;Statistics&lt;/h2&gt;
+&lt;p&gt;Definition of combination:&lt;/p&gt;
+&lt;p&gt;$$
+\frac{n!}{k!(n-k)!} = {^n}C_k
+{n \choose k}
+$$&lt;/p&gt;
+&lt;h2 id=&#34;fractions-on-fractions&#34;&gt;Fractions on fractions&lt;/h2&gt;
+&lt;p&gt;$$
+\frac{\frac{1}{x}+\frac{1}{y}}{y-z}
+$$&lt;/p&gt;
+&lt;h2 id=&#34;n-th-root&#34;&gt;n-th root&lt;/h2&gt;
+&lt;p&gt;$$
+\sqrt[n]{1+x+x^2+x^3+\ldots}
+$$&lt;/p&gt;
+&lt;h2 id=&#34;matrices&#34;&gt;Matrices&lt;/h2&gt;
+&lt;p&gt;$$
+\begin{pmatrix} a_{11} &amp;amp; a_{12} &amp;amp; a_{13}\ a_{21} &amp;amp; a_{22} &amp;amp; a_{23}\ a_{31} &amp;amp; a_{32} &amp;amp; a_{33} \end{pmatrix}
+\begin{bmatrix} 0 &amp;amp; \cdots &amp;amp; 0 \ \vdots &amp;amp; \ddots &amp;amp; \vdots \ 0 &amp;amp; \cdots &amp;amp; 0 \end{bmatrix}
+$$&lt;/p&gt;
+&lt;h2 id=&#34;punctuation&#34;&gt;Punctuation&lt;/h2&gt;
+&lt;p&gt;$$
+f(x) = \sqrt{1+x} \quad (x \ge -1)
+f(x) \sim x^2 \quad (x\to\infty)
+$$&lt;/p&gt;
+&lt;p&gt;Now with punctuation:&lt;/p&gt;
+&lt;p&gt;$$
+f(x) = \sqrt{1+x}, \quad x \ge -1
+f(x) \sim x^2, \quad x\to\infty
+$$&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Demo: more Shortcodes</title>
+      <link>http://xingjingyuan.github.io/post/7-shortcodes-preview/</link>
+      <pubDate>Sun, 04 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>http://xingjingyuan.github.io/post/7-shortcodes-preview/</guid>
+      
+        <description>&lt;h2 id=&#34;what-a-shortcode-is&#34;&gt;What a Shortcode is&lt;/h2&gt;
+&lt;p&gt;Hugo loves Markdown because of its simple content format, but there are times when Markdown falls short. Often, content authors are forced to add raw HTML (e.g., video &lt;code&gt;&amp;lt;iframes&amp;gt;&lt;/code&gt;) to Markdown content. We think this contradicts the beautiful simplicity of Markdown&amp;rsquo;s syntax.&lt;/p&gt;
+&lt;p&gt;Hugo created &lt;strong&gt;shortcodes&lt;/strong&gt; to circumvent these limitations.&lt;/p&gt;
+&lt;p&gt;A shortcode is a simple snippet inside a content file that Hugo will render using a predefined template. Note that shortcodes will not work in template files. If you need the type of drop-in functionality that shortcodes provide but in a template, you most likely want a [partial template][partials] instead.&lt;/p&gt;
+&lt;p&gt;In addition to cleaner Markdown, shortcodes can be updated any time to reflect new classes, techniques, or standards. At the point of site generation, Hugo shortcodes will easily merge in your changes. You avoid a possibly complicated search and replace operation.&lt;/p&gt;
+&lt;p&gt;More details: &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/&#34;&gt;https://gohugo.io/content-management/shortcodes/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;blockquotes&#34;&gt;blockquotes&lt;/h2&gt;
+&lt;p&gt;Normal quote:
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;blockquote&gt;
+  &lt;p&gt;This is a simple quote.&lt;/p&gt;
+  &lt;footer&gt;
+    &lt;strong&gt;&lt;/strong&gt;
+    
+      
+        
+      
+    
+  &lt;/footer&gt;
+&lt;/blockquote&gt;
+&lt;/p&gt;
+&lt;p&gt;Quote with author:
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+
+
+
+
+
+  
+
+
+&lt;blockquote&gt;
+  &lt;p&gt;This is a quote with only an Author named Author2.&lt;/p&gt;
+  &lt;footer&gt;
+    &lt;strong&gt;Author2&lt;/strong&gt;
+    
+      
+        
+      
+    
+  &lt;/footer&gt;
+&lt;/blockquote&gt;
+&lt;/p&gt;
+&lt;p&gt;Quote with author and source:
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+
+
+
+
+
+  
+
+
+&lt;blockquote&gt;
+  &lt;p&gt;This is a quote from Author3 and source &amp;ldquo;source.&amp;rdquo;&lt;/p&gt;
+  &lt;footer&gt;
+    &lt;strong&gt;Author3&lt;/strong&gt;
+    
+      &lt;cite&gt;Source&lt;/cite&gt;
+    
+  &lt;/footer&gt;
+&lt;/blockquote&gt;
+&lt;/p&gt;
+&lt;p&gt;Quote with author and link:
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+
+
+
+
+
+      
+      
+      
+    
+     
+      
+    
+    
+
+    
+    
+  
+
+
+&lt;blockquote&gt;
+  &lt;p&gt;This is a quote from Author4 and links to &lt;a href=&#34;https://www.google.com&#34;&gt;https://www.google.com&lt;/a&gt;.&lt;/p&gt;
+  &lt;footer&gt;
+    &lt;strong&gt;Author4&lt;/strong&gt;
+    
+      
+        &lt;cite&gt;
+          &lt;a href=&#34;https://www.google.com&#34; title=&#34;https://www.google.com&#34;&gt;google.com&lt;/a&gt; 
+        &lt;/cite&gt;
+      
+    
+  &lt;/footer&gt;
+&lt;/blockquote&gt;
+&lt;/p&gt;
+&lt;p&gt;Quote with author, link and title:
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+
+
+
+
+
+  
+
+
+&lt;blockquote&gt;
+  &lt;p&gt;This is a quote from Author5 and links to &lt;a href=&#34;https://www.google.com&#34;&gt;https://www.google.com&lt;/a&gt; with title &amp;ldquo;Google.&amp;rdquo;&lt;/p&gt;
+  &lt;footer&gt;
+    &lt;strong&gt;Author5&lt;/strong&gt;
+    
+      
+        &lt;cite&gt;
+          &lt;a href=&#34;https://www.google.com&#34; title=&#34;https://www.google.com&#34;&gt;Google&lt;/a&gt; 
+        &lt;/cite&gt;
+      
+    
+  &lt;/footer&gt;
+&lt;/blockquote&gt;
+&lt;/p&gt;
+&lt;p&gt;Quote with author and a link longer than 32 characters, string is first cut at 32 characters then everything after the last forward slash is removed
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+
+
+
+
+
+      
+      
+      
+    
+     
+      
+    
+    
+
+    
+    
+         
+         
+         
+
+         
+        
+        
+        
+        
+      
+      
+    
+  
+
+
+&lt;blockquote&gt;
+  &lt;p&gt;This is a quote from Author5 and links to &lt;a href=&#34;https://twitter.com/CryptoGangsta/status/716427930126196737&#34;&gt;https://twitter.com/CryptoGangsta/status/716427930126196737&lt;/a&gt; which is longer than 32 characters.
+&lt;!-- raw HTML omitted --&gt;And this is a new line in the quote with the HTML br tag.&lt;/p&gt;
+  &lt;footer&gt;
+    &lt;strong&gt;Author6&lt;/strong&gt;
+    
+      
+        &lt;cite&gt;
+          &lt;a href=&#34;https://twitter.com/CryptoGangsta/status/716427930126196737&#34; title=&#34;https://twitter.com/CryptoGangsta/status/716427930126196737&#34;&gt;twitter.com/CryptoGangsta/...&lt;/a&gt; 
+        &lt;/cite&gt;
+      
+    
+  &lt;/footer&gt;
+&lt;/blockquote&gt;
+&lt;/p&gt;
+&lt;p&gt;Test from the Octopress blockquote page at: &lt;a href=&#34;http://octopress.org/docs/plugins/blockquote/&#34;&gt;http://octopress.org/docs/plugins/blockquote/&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+
+
+
+
+
+      
+      
+      
+    
+     
+      
+    
+    
+
+    
+    
+         
+         
+         
+
+         
+        
+        
+        
+        
+        
+        
+      
+      
+    
+  
+
+
+&lt;blockquote&gt;
+  &lt;p&gt;Over the past 24 hours I&amp;rsquo;ve been reflecting on my life &amp;amp; I&amp;rsquo;ve realized only one thing. I need a medieval battle axe.&lt;/p&gt;
+  &lt;footer&gt;
+    &lt;strong&gt;@allanbranch&lt;/strong&gt;
+    
+      
+        &lt;cite&gt;
+          &lt;a href=&#34;https://twitter.com/allanbranch/status/90766146063712256&#34; title=&#34;https://twitter.com/allanbranch/status/90766146063712256&#34;&gt;twitter.com/allanbranch/status/...&lt;/a&gt; 
+        &lt;/cite&gt;
+      
+    
+  &lt;/footer&gt;
+&lt;/blockquote&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;music&#34;&gt;music&lt;/h2&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;gist&#34;&gt;gist&lt;/h2&gt;
+&lt;p&gt;We can embed the gist in our content via username and gist ID pulled from the URL:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{&amp;lt; gist spf13 7896402 &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Display:&lt;/p&gt;
+&lt;script type=&#34;application/javascript&#34; src=&#34;https://gist.github.com/spf13/7896402.js&#34;&gt;&lt;/script&gt;
+
+&lt;h2 id=&#34;expand&#34;&gt;expand&lt;/h2&gt;
+&lt;p&gt;The Expand shortcode displays an expandable/collapsible section of text on your page. Here is an example&lt;/p&gt;
+&lt;details&gt;
+  &lt;summary style=&#34;background-color:#f5f5f5;border:1px solid #ccc;padding:5px;&#34;&gt;
+    Is this learn theme rocks ?
+    
+  &lt;/summary&gt;
+  Yes !.
+&lt;/details&gt;
+
+&lt;h3 id=&#34;usage&#34;&gt;Usage&lt;/h3&gt;
+&lt;p&gt;this shortcode takes exactly one optional parameter to define the text that appears next to the expand/collapse icon. (default is “Click to expand”)&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{&amp;lt; expand &amp;#34;Is this learn theme rocks ?&amp;#34; &amp;gt;}}
+Yes !.
+{{&amp;lt; /expand &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;youtube&#34;&gt;youtube&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/w7Ft2ymGmfc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;vimeo&#34;&gt;vimeo&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/146022717&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;youku&#34;&gt;youku&lt;/h2&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+    &lt;iframe src=&#34;https://player.youku.com/embed/XMzQ0ODUxMjM2NA?autoplay=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouKu Video&#34;&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Demo: Image</title>
+      <link>http://xingjingyuan.github.io/post/1-image/</link>
+      <pubDate>Sat, 03 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>http://xingjingyuan.github.io/post/1-image/</guid>
+      
+        <description>&lt;p&gt;Thanks for &lt;a href=&#34;https://github.com/liwenyip/hugo-easy-gallery&#34;&gt;liwenyip/hugo-easy-gallery&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://github.com/xianmin/hugo-theme-jane/pull/48&#34;&gt;Zebradil · Pull Request #48&lt;/a&gt; .&lt;/p&gt;
+&lt;p&gt;Now, we could use &lt;code&gt;{{&amp;lt; gallery &amp;gt;}}&lt;/code&gt; shortcode in hugo-theme-jane.&lt;/p&gt;
+&lt;h2 id=&#34;normal-image&#34;&gt;Normal Image&lt;/h2&gt;
+&lt;p&gt;This is an image in &lt;code&gt;static/image&lt;/code&gt; folder.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;![&lt;span style=&#34;color:#f92672&#34;&gt;This is an image in `static/image` folder.&lt;/span&gt;](&lt;span style=&#34;color:#a6e22e&#34;&gt;/image/example.jpg&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;-figure--shortcode&#34;&gt;&lt;code&gt;{{&amp;lt; figure &amp;gt;}}&lt;/code&gt; shortcode&lt;/h2&gt;
+&lt;h3 id=&#34;figure-image-with-title&#34;&gt;figure image with title&lt;/h3&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{&amp;lt; figure src=&amp;#34;/image/example.jpg&amp;#34; title=&amp;#34;figure image with title&amp;#34; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;figure-image-with-caption&#34;&gt;figure image with caption&lt;/h3&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{&amp;lt; figure src=&amp;#34;/image/example.jpg&amp;#34; caption=&amp;#34;figure image with caption figure image with caption figure image with caption figure image with caption figure image with caption&amp;#34; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;more--figure--shortcode-usage&#34;&gt;more &lt;code&gt;{{&amp;lt; figure &amp;gt;}}&lt;/code&gt; shortcode usage&lt;/h3&gt;
+&lt;p&gt;Specifying your image files:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;{{&amp;lt; figure src=&amp;quot;thumb.jpg&amp;quot; link=&amp;quot;image.jpg&amp;quot; &amp;gt;}}&lt;/code&gt; will use &lt;code&gt;thumb.jpg&lt;/code&gt; for thumbnail and &lt;code&gt;image.jpg&lt;/code&gt; for lightbox&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;{{&amp;lt; figure src=&amp;quot;image.jpg&amp;quot; &amp;gt;}}&lt;/code&gt; or &lt;code&gt;{{&amp;lt; figure link=&amp;quot;image.jpg&amp;quot; &amp;gt;}}&lt;/code&gt; will use &lt;code&gt;image.jpg&lt;/code&gt; for both thumbnail and lightbox&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;{{&amp;lt; figure link=&amp;quot;image.jpg&amp;quot; thumb=&amp;quot;-small&amp;quot; &amp;gt;}}&lt;/code&gt; will use &lt;code&gt;image-small.jpg&lt;/code&gt; for thumbnail and &lt;code&gt;image.jpg&lt;/code&gt; for lightbox&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;All the &lt;a href=&#34;https://gohugo.io/extras/shortcodes&#34;&gt;features/parameters&lt;/a&gt; of Hugo&amp;rsquo;s built-in &lt;code&gt;figure&lt;/code&gt; shortcode work as normal, i.e. src, link, title, caption, class, attr (attribution), attrlink, alt&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;size&lt;/code&gt; (e.g. &lt;code&gt;size=&amp;quot;1024x768&amp;quot;&lt;/code&gt;) pre-defines the image size for PhotoSwipe. Use this option if you don&amp;rsquo;t want to pre-load the linked image to determine its size.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt; allows you to set any custom classes you want on the &lt;code&gt;&amp;lt;figure&amp;gt;&lt;/code&gt; tag.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Optional parameters for standalone &lt;code&gt;{{&amp;lt; figure &amp;gt;}}&lt;/code&gt; shortcodes only (i.e. don&amp;rsquo;t use on &lt;code&gt;{{&amp;lt; figure &amp;gt;}}&lt;/code&gt; inside &lt;code&gt;{{&amp;lt; gallery &amp;gt;}}&lt;/code&gt; - strange things may happen if you do):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;caption-position&lt;/code&gt; and &lt;code&gt;caption-effect&lt;/code&gt; work the same as for the &lt;code&gt;{{&amp;lt; gallery &amp;gt;}}&lt;/code&gt; shortcode (see below).&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;width&lt;/code&gt; defines the &lt;a href=&#34;https://www.w3schools.com/cssref/pr_dim_max-width.asp&#34;&gt;&lt;code&gt;max-width&lt;/code&gt;&lt;/a&gt; of the image displayed on the page. If using a thumbnail for a standalone figure, set this equal to your thumbnail&amp;rsquo;s native width to make the captions behave properly (or feel free to come up with a better solution and submit a pull request :-)). Also use this option if you don&amp;rsquo;t have a thumbnail and you don&amp;rsquo;t want the hi-res image to take up the entire width of the screen/container.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;class=&amp;quot;no-photoswipe&amp;quot;&lt;/code&gt; prevents a &lt;code&gt;&amp;lt;figure&amp;gt;&lt;/code&gt; from being loaded into PhotoSwipe. If you click on the figure you&amp;rsquo;ll instead a good ol&amp;rsquo; fashioned hyperlink to a bigger image (or - if you haven&amp;rsquo;t specified a bigger image - the same one).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-gallery--shortcode&#34;&gt;&lt;code&gt;{{&amp;lt; gallery &amp;gt;}}&lt;/code&gt; shortcode&lt;/h2&gt;
+&lt;h3 id=&#34;simple-gallery&#34;&gt;simple gallery&lt;/h3&gt;
+&lt;p&gt;To specify a directory of image files:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{&amp;lt; gallery dir=&amp;#34;/img/your-directory-of-images/&amp;#34; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;
+&lt;li&gt;The images are automatically captioned with the file name.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;[image].jpg&lt;/code&gt; is used for the hi-res image, and &lt;code&gt;[image]-thumb.jpg&lt;/code&gt; is used for the thumbnails.&lt;/li&gt;
+&lt;li&gt;If &lt;code&gt;[image]-thumb.jpg&lt;/code&gt; doesn&amp;rsquo;t exist, then &lt;code&gt;[image].jpg&lt;/code&gt; will be used for both hi-res and thumbnail images.&lt;/li&gt;
+&lt;li&gt;The default thumbnail suffix is &lt;code&gt;-thumb&lt;/code&gt;, but you can specify a different one e.g. &lt;code&gt;thumb=&amp;quot;-small&amp;quot;&lt;/code&gt; or &lt;code&gt;thumb=&amp;quot;_150x150&amp;quot;&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;to-specify-individual-image-files&#34;&gt;To specify individual image files&lt;/h3&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{&amp;lt; gallery &amp;gt;}}
+  {{&amp;lt; figure src=&amp;#34;image1.jpg&amp;#34; &amp;gt;}}
+  {{&amp;lt; figure src=&amp;#34;image2.jpg&amp;#34; &amp;gt;}}
+  {{&amp;lt; figure src=&amp;#34;image3.jpg&amp;#34; &amp;gt;}}
+{{&amp;lt; /gallery &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;strong&gt;Optional parameters:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;caption-position&lt;/code&gt; - determines the captions&amp;rsquo; position over the image. Options:
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;bottom&lt;/code&gt; (default)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;center&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;none&lt;/code&gt; hides captions on the page (they will only show in PhotoSwipe)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;caption-effect&lt;/code&gt; - determines if/how captions appear upon hover. Options:
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;slide&lt;/code&gt; (default)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;fade&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;none&lt;/code&gt; (captions always visible)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;hover-effect&lt;/code&gt; - determines if/how images change upon hover. Options:
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;zoom&lt;/code&gt; (default)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;grow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;shrink&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;slideup&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;slidedown&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;none&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;hover-transition&lt;/code&gt; - determines if/how images change upon hover. Options:
+&lt;ul&gt;
+&lt;li&gt;not set - smooth transition (default)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;none&lt;/code&gt; - hard transition&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Demo: Shortcodes Notice</title>
+      <link>http://xingjingyuan.github.io/post/6-shortcode-notice/</link>
+      <pubDate>Sat, 03 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>http://xingjingyuan.github.io/post/6-shortcode-notice/</guid>
+      
+        <description>&lt;h2 id=&#34;normal-use&#34;&gt;normal use&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;Note&lt;/code&gt; example:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-shortcode&#34; data-lang=&#34;shortcode&#34;&gt;{{% notice note %}}
+A notice disclaimer
+{{% /notice %}}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;You could &lt;strong&gt;custom title&lt;/strong&gt; :&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-shortcode&#34; data-lang=&#34;shortcode&#34;&gt;{{% notice note 笔记 %}}
+A notice disclaimer
+{{% /notice %}}
+&lt;/code&gt;&lt;/pre&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;tip&#34;&gt;tip&lt;/h2&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-shortcode&#34; data-lang=&#34;shortcode&#34;&gt;{{% notice tip %}}
+A tip disclaimer
+{{% /tip %}}
+&lt;/code&gt;&lt;/pre&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;info&#34;&gt;info&lt;/h2&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-shortcode&#34; data-lang=&#34;shortcode&#34;&gt;{{% notice info %}}
+A info disclaimer
+{{% /notice %}}
+&lt;/code&gt;&lt;/pre&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;warning&#34;&gt;warning&lt;/h2&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-shortcode&#34; data-lang=&#34;shortcode&#34;&gt;{{% notice warning %}}
+A warning disclaimer
+{{% /notice %}}
+&lt;/code&gt;&lt;/pre&gt;&lt;!-- raw HTML omitted --&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Demo: Footnote</title>
+      <link>http://xingjingyuan.github.io/post/4-footnote/</link>
+      <pubDate>Thu, 01 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>http://xingjingyuan.github.io/post/4-footnote/</guid>
+      
+        <description>&lt;p&gt;Hugo-theme-jane optimized for footnote. When you mouse hover the footnote&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; , footnote content will be displayed.&lt;/p&gt;
+&lt;h2 id=&#34;footnote-1&#34;&gt;Footnote-1&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;You can create footnotes like this[^footnote].
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[^footnote]: Here is the &lt;span style=&#34;font-style:italic&#34;&gt;*text*&lt;/span&gt; of the &lt;span style=&#34;font-weight:bold&#34;&gt;**footnote**&lt;/span&gt;.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;will produce:&lt;/p&gt;
+&lt;p&gt;You can create footnotes like this&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Mouse on the ‘footnote’ superscript to see content of the footnote.&lt;/p&gt;
+&lt;h2 id=&#34;footnote-2&#34;&gt;Footnote-2&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;You can create footnotes like this[^footnote2].
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[^footnote2]: Here is the &lt;span style=&#34;font-style:italic&#34;&gt;*text*&lt;/span&gt; of the &lt;span style=&#34;font-weight:bold&#34;&gt;**footnote**&lt;/span&gt;.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;will produce:&lt;/p&gt;
+&lt;p&gt;You can create footnotes like this&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Mouse on the ‘footnote’ superscript to see content of the footnote.&lt;/p&gt;
+&lt;h2 id=&#34;footnote-3&#34;&gt;Footnote-3&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;You can create footnotes like this[^footnote].
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[^footnote]: Here is the &lt;span style=&#34;font-style:italic&#34;&gt;*text*&lt;/span&gt; of the &lt;span style=&#34;font-weight:bold&#34;&gt;**footnote**&lt;/span&gt;.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;will produce:&lt;/p&gt;
+&lt;p&gt;You can create footnotes like this&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Mouse on the ‘footnote’ superscript to see content of the footnote.&lt;/p&gt;
+&lt;h2 id=&#34;footnote-4&#34;&gt;Footnote-4&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;You can create footnotes like this[^footnote].
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[^footnote]: Here is the &lt;span style=&#34;font-style:italic&#34;&gt;*text*&lt;/span&gt; of the &lt;span style=&#34;font-weight:bold&#34;&gt;**footnote**&lt;/span&gt;.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;will produce:&lt;/p&gt;
+&lt;p&gt;You can create footnotes like this&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Mouse on the ‘footnote’ superscript to see content of the footnote.&lt;/p&gt;
+&lt;h2 id=&#34;footnote-5&#34;&gt;Footnote-5&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;You can create footnotes like this[^footnote].
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[^footnote]: Here is the &lt;span style=&#34;font-style:italic&#34;&gt;*text*&lt;/span&gt; of the &lt;span style=&#34;font-weight:bold&#34;&gt;**footnote**&lt;/span&gt;.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;will produce dddddddddddddddddddddddddddddddddddddddddddddd:&lt;/p&gt;
+&lt;p&gt;You can create footnotes like this&lt;sup id=&#34;fnref:6&#34;&gt;&lt;a href=&#34;#fn:6&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Mouse on the ‘footnote’ superscript to see content of the footnote.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;example footnote show.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;Here is the &lt;em&gt;text&lt;/em&gt; of the &lt;strong&gt;footnote-1&lt;/strong&gt;.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;Here is the &lt;em&gt;text&lt;/em&gt; of the &lt;strong&gt;footnote-2&lt;/strong&gt;. Here is the text of the footnote-2. Here is the text of the footnote-2. Here is the text of the footnote-2. Here is the text of the footnote-2.  &lt;a href=&#34;https://gohugo.io/&#34;&gt;The world’s fastest framework for building websites | Hugo&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34;&gt;
+&lt;p&gt;Here is the &lt;em&gt;text&lt;/em&gt; of the &lt;strong&gt;footnote-3&lt;/strong&gt;.&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34;&gt;
+&lt;p&gt;Here is the &lt;em&gt;text&lt;/em&gt; of the &lt;strong&gt;footnote-4&lt;/strong&gt;.&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:6&#34;&gt;
+&lt;p&gt;Here is the &lt;em&gt;text&lt;/em&gt; of the &lt;strong&gt;footnote-5&lt;/strong&gt;.&amp;#160;&lt;a href=&#34;#fnref:6&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Demo: Syntax Highlighting</title>
+      <link>http://xingjingyuan.github.io/post/3-syntax-highlighting/</link>
+      <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
+      
+      <guid>http://xingjingyuan.github.io/post/3-syntax-highlighting/</guid>
+      
+        <description>&lt;p&gt;More detail: &lt;a href=&#34;https://gohugo.io/content-management/syntax-highlighting/&#34;&gt;Syntax Highlighting | Hugo&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-js&#34; data-lang=&#34;js&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;function&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;helloWorld&lt;/span&gt; () {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#a6e22e&#34;&gt;alert&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, World!&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;class&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;HelloWorld&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;static&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;void&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;String&lt;span style=&#34;color:#f92672&#34;&gt;[]&lt;/span&gt; args&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    System&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;out&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;println&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, World!&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;);&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#f92672&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-kotlin&#34; data-lang=&#34;kotlin&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;package&lt;/span&gt; hello
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;fun&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;(args: Array&amp;lt;String&amp;gt;) {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  println(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello World!&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-c&#34; data-lang=&#34;c&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#include&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;&amp;lt;stdio.h&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;/* Hello */&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;(&lt;span style=&#34;color:#66d9ef&#34;&gt;void&lt;/span&gt;){
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#a6e22e&#34;&gt;printf&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, World!&amp;#34;&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-cpp&#34; data-lang=&#34;cpp&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;// &amp;#39;Hello World!&amp;#39; program
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#include&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;&amp;lt;iostream&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;(){
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  std&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;cout &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello World!&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&amp;lt;&lt;/span&gt; std&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;endl;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-cs&#34; data-lang=&#34;cs&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;using&lt;/span&gt; System;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;class&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;HelloWorld&lt;/span&gt;{
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;static&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;void&lt;/span&gt; Main(){
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    System.Console.WriteLine(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, World!&amp;#34;&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;html&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;body&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  Hello, World!
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;body&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;html&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;package&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;fmt&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;fmt&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;func&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;()
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   &lt;span style=&#34;color:#a6e22e&#34;&gt;fmt&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;Printf&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, World!\n&amp;#34;&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-scala&#34; data-lang=&#34;scala&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;object&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;HelloWorld&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;with&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;Application&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#a6e22e&#34;&gt;Console&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;println&lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, World!&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;);&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-php&#34; data-lang=&#34;php&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;?&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;php&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;echo&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;Hello, World!&amp;#39;&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;?&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, World!&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;no-named-code-block&#34;&gt;no named code block&lt;/h2&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;## this is a comment
+$ echo this is a command
+this is a command
+
+## edit the file
+$vi foo.md
++++
+date = &amp;#34;2014-09-28&amp;#34;
+title = &amp;#34;creating a new theme&amp;#34;
++++
+
+bah and humbug
+:wq
+
+## show it
+$ cat foo.md
++++
+date = &amp;#34;2014-09-28&amp;#34;
+title = &amp;#34;creating a new theme&amp;#34;
++++
+
+bah and humbug
+$
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;highlight-shortcode&#34;&gt;highlight shortcode&lt;/h2&gt;
+&lt;p&gt;example:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-shortcode&#34; data-lang=&#34;shortcode&#34;&gt;{{&amp;lt; highlight go &amp;#34;linenos=table,hl_lines=8 15-17,linenostart=199&amp;#34; &amp;gt;}}
+// ... code
+{{&amp;lt; /highlight &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;result:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;display:grid;&#34;&gt;
+&lt;table style=&#34;border-spacing:0;padding:0;margin:0;border:0;&#34;&gt;&lt;tr&gt;&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;display:grid;&#34;&gt;&lt;code&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;199
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;200
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;201
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;202
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;203
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;204
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;205
+&lt;/span&gt;&lt;span style=&#34;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;206
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;207
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;208
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;209
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;210
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;211
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;212
+&lt;/span&gt;&lt;span style=&#34;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;213
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;214
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;215
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;216
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;217
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;218
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;219
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;220
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;;width:100%&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;display:grid;&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;// GetTitleFunc returns a func that can be used to transform a string to
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;// title case.
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;//
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;// The supported styles are
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;//
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;// - &amp;#34;Go&amp;#34; (strings.Title)
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;// - &amp;#34;AP&amp;#34; (see https://www.apstylebook.com/)
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex; background-color:#3c3d38&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;// - &amp;#34;Chicago&amp;#34; (see http://www.chicagomanualofstyle.org/home.html)
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;//
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;// If an unknown or empty style is provided, AP style is what you get.
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;func&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;GetTitleFunc&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;style&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;string&lt;/span&gt;) &lt;span style=&#34;color:#66d9ef&#34;&gt;func&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;s&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;string&lt;/span&gt;) &lt;span style=&#34;color:#66d9ef&#34;&gt;string&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;switch&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;strings&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;ToLower&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;style&lt;/span&gt;) {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;case&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;go&amp;#34;&lt;/span&gt;:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;strings&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;Title&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex; background-color:#3c3d38&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;case&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;chicago&amp;#34;&lt;/span&gt;:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex; background-color:#3c3d38&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;tc&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;:=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;transform&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;NewTitleConverter&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;transform&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;ChicagoStyle&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex; background-color:#3c3d38&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;tc&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;Title&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;default&lt;/span&gt;:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;tc&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;:=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;transform&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;NewTitleConverter&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;transform&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;APStyle&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;tc&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;Title&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      
+    </item>
+    
   </channel>
 </rss>
