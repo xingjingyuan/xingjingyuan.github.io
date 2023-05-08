@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jane - A super concise theme for Hugo</title>
+    <title>xingjingyuan</title>
     <link>http://xingjingyuan.github.io/</link>
-    <description>Recent content on Jane - A super concise theme for Hugo</description>
+    <description>Recent content on xingjingyuan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <copyright>xingjingyuan</copyright>
     <lastBuildDate>Mon, 08 May 2023 14:30:47 +0800</lastBuildDate>
     
         <atom:link href="http://xingjingyuan.github.io/index.xml" rel="self" type="application/rss+xml" />
