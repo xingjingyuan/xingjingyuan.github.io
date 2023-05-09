@@ -68,6 +68,7 @@ mathjax: true    # 打开 mathjax&lt;/p&gt;
 defaultContentLanguage = &amp;ldquo;zh-cn&amp;rdquo;  # 默认使用的语言
 [Languages.zh-cn]
 languageCode = &amp;ldquo;zh-cn&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;模版推荐：Fixit，moment，paper，loveit，jane&lt;/p&gt;
 </description>
       
     </item>
