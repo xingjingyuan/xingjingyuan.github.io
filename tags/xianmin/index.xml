@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>xianmin on xingjingyuan</title>
-    <link>http://xingjingyuan.github.io/tags/xianmin/</link>
+    <link>http://xingjingyuan.cn/tags/xianmin/</link>
     <description>Recent content in xianmin on xingjingyuan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>xingjingyuan</copyright>
-    <lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://xingjingyuan.github.io/tags/xianmin/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://xingjingyuan.cn/tags/xianmin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Demo: toc</title>
-      <link>http://xingjingyuan.github.io/post/2-toc/</link>
+      <link>http://xingjingyuan.cn/post/2-toc/</link>
       <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://xingjingyuan.github.io/post/2-toc/</guid>
+      <guid>http://xingjingyuan.cn/post/2-toc/</guid>
       <description>Header This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme. Header This tutorial will show you how to</description>
     </item>
     

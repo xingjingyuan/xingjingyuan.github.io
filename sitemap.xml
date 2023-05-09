@@ -1,169 +1,169 @@
-<?xml-stylesheet type="text/xsl" href="http://xingjingyuan.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://xingjingyuan.cn/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://xingjingyuan.github.io/tags/blog/</loc>
+    <loc>http://xingjingyuan.cn/tags/blog/</loc>
     <lastmod>2023-05-08T14:30:47+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://xingjingyuan.github.io/categories/</loc>
+    <loc>http://xingjingyuan.cn/categories/</loc>
     <lastmod>2023-05-08T14:30:47+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://xingjingyuan.github.io/post/8-hogo%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/</loc>
+    <loc>http://xingjingyuan.cn/post/8-hogo%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/</loc>
     <lastmod>2023-05-08T14:30:47+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://xingjingyuan.github.io/tags/hugo/</loc>
+    <loc>http://xingjingyuan.cn/tags/hugo/</loc>
     <lastmod>2023-05-08T14:30:47+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://xingjingyuan.github.io/post/</loc>
+    <loc>http://xingjingyuan.cn/post/</loc>
     <lastmod>2023-05-08T14:30:47+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://xingjingyuan.github.io/tags/</loc>
+    <loc>http://xingjingyuan.cn/tags/</loc>
     <lastmod>2023-05-08T14:30:47+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://xingjingyuan.github.io/</loc>
+    <loc>http://xingjingyuan.cn/</loc>
     <lastmod>2023-05-08T14:30:47+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://xingjingyuan.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
+    <loc>http://xingjingyuan.cn/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
     <lastmod>2023-05-08T14:30:47+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://xingjingyuan.github.io/about/</loc>
+    <loc>http://xingjingyuan.cn/about/</loc>
     <lastmod>2023-05-08T14:29:44+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://xingjingyuan.github.io/post/2-toc/</loc>
+    <loc>http://xingjingyuan.cn/post/2-toc/</loc>
     <lastmod>2022-02-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://xingjingyuan.github.io/tags/xianmin/</loc>
+    <loc>http://xingjingyuan.cn/tags/xianmin/</loc>
     <lastmod>2022-02-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://xingjingyuan.github.io/categories/%E7%A4%BA%E4%BE%8B/</loc>
+    <loc>http://xingjingyuan.cn/categories/%E7%A4%BA%E4%BE%8B/</loc>
     <lastmod>2022-02-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://xingjingyuan.github.io/post/5-math/</loc>
+    <loc>http://xingjingyuan.cn/post/5-math/</loc>
     <lastmod>2019-03-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://xingjingyuan.github.io/tags/math/</loc>
+    <loc>http://xingjingyuan.cn/tags/math/</loc>
     <lastmod>2019-03-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://xingjingyuan.github.io/post/7-shortcodes-preview/</loc>
+    <loc>http://xingjingyuan.cn/post/7-shortcodes-preview/</loc>
     <lastmod>2018-03-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://xingjingyuan.github.io/tags/more-shortcodes/</loc>
+    <loc>http://xingjingyuan.cn/tags/more-shortcodes/</loc>
     <lastmod>2018-03-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://xingjingyuan.github.io/post/1-image/</loc>
+    <loc>http://xingjingyuan.cn/post/1-image/</loc>
     <lastmod>2018-03-04T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://xingjingyuan.github.io/post/6-shortcode-notice/</loc>
+    <loc>http://xingjingyuan.cn/post/6-shortcode-notice/</loc>
     <lastmod>2018-03-04T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://xingjingyuan.github.io/tags/image/</loc>
+    <loc>http://xingjingyuan.cn/tags/image/</loc>
     <lastmod>2018-03-04T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://xingjingyuan.github.io/tags/shortcodes-notice/</loc>
+    <loc>http://xingjingyuan.cn/tags/shortcodes-notice/</loc>
     <lastmod>2018-03-04T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://xingjingyuan.github.io/post/4-footnote/</loc>
+    <loc>http://xingjingyuan.cn/post/4-footnote/</loc>
     <lastmod>2018-03-01T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://xingjingyuan.github.io/tags/footnote/</loc>
+    <loc>http://xingjingyuan.cn/tags/footnote/</loc>
     <lastmod>2018-03-01T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://xingjingyuan.github.io/post/3-syntax-highlighting/</loc>
+    <loc>http://xingjingyuan.cn/post/3-syntax-highlighting/</loc>
     <lastmod>2017-08-30T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://xingjingyuan.github.io/tags/syntax-highlighting/</loc>
+    <loc>http://xingjingyuan.cn/tags/syntax-highlighting/</loc>
     <lastmod>2017-08-30T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

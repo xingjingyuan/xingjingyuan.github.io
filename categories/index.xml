@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on xingjingyuan</title>
-    <link>http://xingjingyuan.github.io/categories/</link>
+    <link>http://xingjingyuan.cn/categories/</link>
     <description>Recent content in Categories on xingjingyuan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>xingjingyuan</copyright>
-    <lastBuildDate>Mon, 08 May 2023 14:30:47 +0800</lastBuildDate><atom:link href="http://xingjingyuan.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 May 2023 14:30:47 +0800</lastBuildDate><atom:link href="http://xingjingyuan.cn/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>博客搭建</title>
-      <link>http://xingjingyuan.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
+      <link>http://xingjingyuan.cn/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
       <pubDate>Mon, 08 May 2023 14:30:47 +0800</pubDate>
       
-      <guid>http://xingjingyuan.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</guid>
+      <guid>http://xingjingyuan.cn/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</guid>
       <description></description>
     </item>
     
     <item>
       <title>示例</title>
-      <link>http://xingjingyuan.github.io/categories/%E7%A4%BA%E4%BE%8B/</link>
+      <link>http://xingjingyuan.cn/categories/%E7%A4%BA%E4%BE%8B/</link>
       <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://xingjingyuan.github.io/categories/%E7%A4%BA%E4%BE%8B/</guid>
+      <guid>http://xingjingyuan.cn/categories/%E7%A4%BA%E4%BE%8B/</guid>
       <description></description>
     </item>
     

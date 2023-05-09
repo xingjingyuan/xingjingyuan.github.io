@@ -2,90 +2,90 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on xingjingyuan</title>
-    <link>http://xingjingyuan.github.io/tags/</link>
+    <link>http://xingjingyuan.cn/tags/</link>
     <description>Recent content in Tags on xingjingyuan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>xingjingyuan</copyright>
-    <lastBuildDate>Mon, 08 May 2023 14:30:47 +0800</lastBuildDate><atom:link href="http://xingjingyuan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 May 2023 14:30:47 +0800</lastBuildDate><atom:link href="http://xingjingyuan.cn/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blog</title>
-      <link>http://xingjingyuan.github.io/tags/blog/</link>
+      <link>http://xingjingyuan.cn/tags/blog/</link>
       <pubDate>Mon, 08 May 2023 14:30:47 +0800</pubDate>
       
-      <guid>http://xingjingyuan.github.io/tags/blog/</guid>
+      <guid>http://xingjingyuan.cn/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>http://xingjingyuan.github.io/tags/hugo/</link>
+      <link>http://xingjingyuan.cn/tags/hugo/</link>
       <pubDate>Mon, 08 May 2023 14:30:47 +0800</pubDate>
       
-      <guid>http://xingjingyuan.github.io/tags/hugo/</guid>
+      <guid>http://xingjingyuan.cn/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>xianmin</title>
-      <link>http://xingjingyuan.github.io/tags/xianmin/</link>
+      <link>http://xingjingyuan.cn/tags/xianmin/</link>
       <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://xingjingyuan.github.io/tags/xianmin/</guid>
+      <guid>http://xingjingyuan.cn/tags/xianmin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Math</title>
-      <link>http://xingjingyuan.github.io/tags/math/</link>
+      <link>http://xingjingyuan.cn/tags/math/</link>
       <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
       
-      <guid>http://xingjingyuan.github.io/tags/math/</guid>
+      <guid>http://xingjingyuan.cn/tags/math/</guid>
       <description></description>
     </item>
     
     <item>
       <title>more Shortcodes</title>
-      <link>http://xingjingyuan.github.io/tags/more-shortcodes/</link>
+      <link>http://xingjingyuan.cn/tags/more-shortcodes/</link>
       <pubDate>Sun, 04 Mar 2018 16:01:23 +0800</pubDate>
       
-      <guid>http://xingjingyuan.github.io/tags/more-shortcodes/</guid>
+      <guid>http://xingjingyuan.cn/tags/more-shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Image</title>
-      <link>http://xingjingyuan.github.io/tags/image/</link>
+      <link>http://xingjingyuan.cn/tags/image/</link>
       <pubDate>Sat, 03 Mar 2018 16:01:23 +0800</pubDate>
       
-      <guid>http://xingjingyuan.github.io/tags/image/</guid>
+      <guid>http://xingjingyuan.cn/tags/image/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shortcodes Notice</title>
-      <link>http://xingjingyuan.github.io/tags/shortcodes-notice/</link>
+      <link>http://xingjingyuan.cn/tags/shortcodes-notice/</link>
       <pubDate>Sat, 03 Mar 2018 16:01:23 +0800</pubDate>
       
-      <guid>http://xingjingyuan.github.io/tags/shortcodes-notice/</guid>
+      <guid>http://xingjingyuan.cn/tags/shortcodes-notice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Footnote</title>
-      <link>http://xingjingyuan.github.io/tags/footnote/</link>
+      <link>http://xingjingyuan.cn/tags/footnote/</link>
       <pubDate>Thu, 01 Mar 2018 16:01:23 +0800</pubDate>
       
-      <guid>http://xingjingyuan.github.io/tags/footnote/</guid>
+      <guid>http://xingjingyuan.cn/tags/footnote/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Syntax Highlighting</title>
-      <link>http://xingjingyuan.github.io/tags/syntax-highlighting/</link>
+      <link>http://xingjingyuan.cn/tags/syntax-highlighting/</link>
       <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
       
-      <guid>http://xingjingyuan.github.io/tags/syntax-highlighting/</guid>
+      <guid>http://xingjingyuan.cn/tags/syntax-highlighting/</guid>
       <description></description>
     </item>
     
