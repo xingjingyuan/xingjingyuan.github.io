@@ -14,10 +14,10 @@
     
     <item>
       <title>Hogo安装过程</title>
-      <link>http://xingjingyuan.github.io/post/hogo%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/</link>
+      <link>http://xingjingyuan.github.io/post/8-hogo%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/</link>
       <pubDate>Mon, 08 May 2023 14:30:47 +0800</pubDate>
       
-      <guid>http://xingjingyuan.github.io/post/hogo%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/</guid>
+      <guid>http://xingjingyuan.github.io/post/8-hogo%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/</guid>
       
         <description>&lt;p&gt;1、下载hugo Windows版本
 2、将hugo路径添加到环境变量
@@ -68,18 +68,6 @@ mathjax: true    # 打开 mathjax&lt;/p&gt;
 defaultContentLanguage = &amp;ldquo;zh-cn&amp;rdquo;  # 默认使用的语言
 [Languages.zh-cn]
 languageCode = &amp;ldquo;zh-cn&amp;rdquo;&lt;/p&gt;
-</description>
-      
-    </item>
-    
-    <item>
-      <title>my2</title>
-      <link>http://xingjingyuan.github.io/post/my2/</link>
-      <pubDate>Mon, 08 May 2023 14:30:47 +0800</pubDate>
-      
-      <guid>http://xingjingyuan.github.io/post/my2/</guid>
-      
-        <description>&lt;p&gt;1111111&lt;/p&gt;
 </description>
       
     </item>
