@@ -91,7 +91,7 @@
 &lt;h2 id=&#34;normal-image&#34;&gt;Normal Image&lt;/h2&gt;
 &lt;p&gt;This is an image in &lt;code&gt;static/image&lt;/code&gt; folder.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;![&lt;span style=&#34;color:#f92672&#34;&gt;This is an image in `static/image` folder.&lt;/span&gt;](&lt;span style=&#34;color:#a6e22e&#34;&gt;/image/example.jpg&lt;/span&gt;)
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;http://xingjingyuan.cn/image/example.jpg&#34; alt=&#34;This is an image in static/image folder.&#34;&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
