@@ -19,31 +19,31 @@
       
       <guid>http://xingjingyuan.cn/post/8-hogoinstall/</guid>
       
-        <description>&lt;p&gt;##1、下载hugo Windows版本&lt;/p&gt;
-&lt;p&gt;##2、将hugo路径添加到环境变量&lt;/p&gt;
-&lt;p&gt;##3、快速创建网站&lt;/p&gt;
+        <description>&lt;h2 id=&#34;1下载hugo-windows版本&#34;&gt;1、下载hugo Windows版本&lt;/h2&gt;
+&lt;h2 id=&#34;2将hugo路径添加到环境变量&#34;&gt;2、将hugo路径添加到环境变量&lt;/h2&gt;
+&lt;h2 id=&#34;3快速创建网站&#34;&gt;3、快速创建网站&lt;/h2&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-shortcode&#34; data-lang=&#34;shortcode&#34;&gt;Hugo new site  xingjingyuan
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;##4、下载模版，遇到无法获取问题。&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;4下载模版遇到无法获取问题&#34;&gt;4、下载模版，遇到无法获取问题。&lt;/h2&gt;
 &lt;pre&gt;&lt;code&gt;解决：通过git取消代理：
 &lt;/code&gt;&lt;/pre&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-shortcode&#34; data-lang=&#34;shortcode&#34;&gt;   git config --global --unset http.proxy
    git config --global --unset https.proxy
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;##5、jane模版设置
-将主题 clone 到 theme 目录下：&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;5jane模版设置&#34;&gt;5、jane模版设置&lt;/h2&gt;
+&lt;p&gt;将主题 clone 到 theme 目录下：&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-shortcode&#34; data-lang=&#34;shortcode&#34;&gt;cd xingjingyuan
 git clone https://github.com/xianmin/hugo-theme-jane.git --depth=1 themes/jane
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;使用示例文本和默认的站点设置：&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-shortcode&#34; data-lang=&#34;shortcode&#34;&gt;cp -r themes/jane/exampleSite/content ./
 cp themes/jane/exampleSite/config.toml ./
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;##6、启动 Hugo 服务器&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;6启动-hugo-服务器&#34;&gt;6、启动 Hugo 服务器&lt;/h2&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-shortcode&#34; data-lang=&#34;shortcode&#34;&gt;hugo server  
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;在 http://localhost:1313/ 将会看到示例 jane 主题的示例网站：&lt;/p&gt;
-&lt;p&gt;##7、默认配置文件 config.toml 位于你的网站的根目录，请按自身需要进行定制。
-默认的文章文件位于 ./content/post 目录，写好文章后用hugo命令编译。bat脚本&lt;/p&gt;
+&lt;h2 id=&#34;7默认配置文件-configtoml-位于你的网站的根目录请按自身需要进行定制&#34;&gt;7、默认配置文件 config.toml 位于你的网站的根目录，请按自身需要进行定制。&lt;/h2&gt;
+&lt;p&gt;默认的文章文件位于 ./content/post 目录，写好文章后用hugo命令编译。bat脚本&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-shortcode&#34; data-lang=&#34;shortcode&#34;&gt;cmd /k &amp;#34;cd /d D:\hugo\xingjingyuan&amp;amp;&amp;amp;Hugo&amp;#34;
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;##8、github客户端绑定到public目录
-##9、YAML示例&lt;/p&gt;
-&lt;p&gt;##10、常用定义&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;8github客户端绑定到public目录&#34;&gt;8、github客户端绑定到public目录&lt;/h2&gt;
+&lt;h2 id=&#34;9yaml示例&#34;&gt;9、YAML示例&lt;/h2&gt;
+&lt;h2 id=&#34;10常用定义&#34;&gt;10、常用定义&lt;/h2&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-shortcode&#34; data-lang=&#34;shortcode&#34;&gt;title: &amp;#34;An Example Post&amp;#34;            标题
 date: 2018-01-01T16:01:23+08:00     创建时间
 lastmod: 2018-01-02T16:01:23+08:00  最后修改时间
@@ -66,7 +66,7 @@ toc: false        关闭文章目录
 contentCopyright: &amp;#39;&amp;lt;a rel=&amp;#34;license noopener&amp;#34; href=&amp;#34;https://creativecommons.org/licenses/by-nc-nd/4.0/&amp;#34; target=&amp;#34;_blank&amp;#34;&amp;gt;CC BY-NC-ND 4.0&amp;lt;/a&amp;gt;&amp;#39;
 reward: false	  关闭打赏
 mathjax: true     打开 mathjax
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;##11、多语言支持&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;11多语言支持&#34;&gt;11、多语言支持&lt;/h2&gt;
 &lt;p&gt;Hugo-Theme-Jane 支持创建多语言网站。
 你需要为你的网站对 languages 进行配置。
 翻译位于 i18n/ 文件夹下。
