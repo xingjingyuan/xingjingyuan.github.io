@@ -76,7 +76,7 @@
 <meta itemprop="name" content="Hogo安装过程">
 <meta itemprop="description" content="1、下载hugo Windows版本 2、将hugo路径添加到环境变量 3、快速创建网站 Hugo new site xingjingyuan 4、下载模版，遇到无法获取问题。 解决：通过git取"><meta itemprop="datePublished" content="2023-05-08T14:30:47+08:00" />
 <meta itemprop="dateModified" content="2023-05-08T14:30:47+08:00" />
-<meta itemprop="wordCount" content="512">
+<meta itemprop="wordCount" content="516">
 <meta itemprop="keywords" content="hugo,blog," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Hogo安装过程"/>
 <meta name="twitter:description" content="1、下载hugo Windows版本 2、将hugo路径添加到环境变量 3、快速创建网站 Hugo new site xingjingyuan 4、下载模版，遇到无法获取问题。 解决：通过git取"/>
@@ -366,18 +366,18 @@ cp themes/jane/exampleSite/config.toml ./
 </code></pre><h2 id="6启动-hugo-服务器">6、启动 Hugo 服务器</h2>
 <pre tabindex="0"><code class="language-shortcode" data-lang="shortcode">hugo server  
 </code></pre><p>在 http://localhost:1313/ 将会看到示例 jane 主题的示例网站：</p>
-<h2 id="7默认配置文件-configtoml-位于你的网站的根目录请按自身需要进行定制">7、默认配置文件 config.toml 位于你的网站的根目录，请按自身需要进行定制。</h2>
-<p>默认的文章文件位于 ./content/post 目录，写好文章后用hugo命令编译。bat脚本</p>
+<h2 id="7默认配置">7、默认配置</h2>
+<p>文件 config.toml 位于你的网站的根目录，请按自身需要进行定制。
+默认的文章文件位于 ./content/post 目录，写好文章后用hugo命令编译。bat脚本：</p>
 <pre tabindex="0"><code class="language-shortcode" data-lang="shortcode">cmd /k &#34;cd /d D:\hugo\xingjingyuan&amp;&amp;Hugo&#34;
 </code></pre><h2 id="8github客户端绑定到public目录">8、github客户端绑定到public目录</h2>
 <h2 id="9yaml示例">9、YAML示例</h2>
-<h2 id="10常用定义">10、常用定义</h2>
-<pre tabindex="0"><code class="language-shortcode" data-lang="shortcode">title: &#34;An Example Post&#34;            标题
-date: 2018-01-01T16:01:23+08:00     创建时间
-lastmod: 2018-01-02T16:01:23+08:00  最后修改时间
-draft: false                        是否是草稿？
-tags: [&#34;tag-1&#34;, &#34;tag-2&#34;, &#34;tag-3&#34;]   标签
-categories: [&#34;index&#34;]               分类
+<pre tabindex="0"><code class="language-shortcode" data-lang="shortcode">title: &#34;An Example Post&#34;            #标题
+date: 2018-01-01T16:01:23+08:00     #创建时间
+lastmod: 2018-01-02T16:01:23+08:00  #最后修改时间
+draft: false                        #是否是草稿？
+tags: [&#34;tag-1&#34;, &#34;tag-2&#34;, &#34;tag-3&#34;]   #标签
+categories: [&#34;index&#34;]               #分类
 -
 menu:                             #主页菜单设置
   main:
@@ -388,22 +388,22 @@ author: &#34;xianmin&#34;                  # 作者
 
 用户自定义
 你可以选择 关闭(false) 或者 打开(true) 以下选项
-comment: false    关闭评论
-toc: false        关闭文章目录
+comment: false    #关闭评论
+toc: false        #关闭文章目录
  你同样可以自定义文章的版权规则
 contentCopyright: &#39;&lt;a rel=&#34;license noopener&#34; href=&#34;https://creativecommons.org/licenses/by-nc-nd/4.0/&#34; target=&#34;_blank&#34;&gt;CC BY-NC-ND 4.0&lt;/a&gt;&#39;
-reward: false	  关闭打赏
-mathjax: true     打开 mathjax
-</code></pre><h2 id="11多语言支持">11、多语言支持</h2>
+reward: false	  #关闭打赏
+mathjax: true     #打开 mathjax
+</code></pre><h2 id="10多语言支持">10、多语言支持</h2>
 <p>Hugo-Theme-Jane 支持创建多语言网站。
 你需要为你的网站对 languages 进行配置。
 翻译位于 i18n/ 文件夹下。
 使用特定的翻译：
-使用中文：
-defaultContentLanguage = &ldquo;zh-cn&rdquo;  # 默认使用的语言
+使用中文：</p>
+<pre tabindex="0"><code class="language-shortcode" data-lang="shortcode">defaultContentLanguage = &#34;zh-cn&#34;  # 默认使用的语言
 [Languages.zh-cn]
-languageCode = &ldquo;zh-cn&rdquo;</p>
-<p>模版推荐：Fixit，moment，paper，loveit，jane</p>
+languageCode = &#34;zh-cn&#34;
+</code></pre><p>模版推荐：Fixit，moment，paper，loveit，jane</p>
 
         </div>
 
@@ -503,11 +503,10 @@ languageCode = &ldquo;zh-cn&rdquo;</p>
     <li><a href="#4下载模版遇到无法获取问题">4、下载模版，遇到无法获取问题。</a></li>
     <li><a href="#5jane模版设置">5、jane模版设置</a></li>
     <li><a href="#6启动-hugo-服务器">6、启动 Hugo 服务器</a></li>
-    <li><a href="#7默认配置文件-configtoml-位于你的网站的根目录请按自身需要进行定制">7、默认配置文件 config.toml 位于你的网站的根目录，请按自身需要进行定制。</a></li>
+    <li><a href="#7默认配置">7、默认配置</a></li>
     <li><a href="#8github客户端绑定到public目录">8、github客户端绑定到public目录</a></li>
     <li><a href="#9yaml示例">9、YAML示例</a></li>
-    <li><a href="#10常用定义">10、常用定义</a></li>
-    <li><a href="#11多语言支持">11、多语言支持</a></li>
+    <li><a href="#10多语言支持">10、多语言支持</a></li>
   </ul>
 </nav>
     </div>

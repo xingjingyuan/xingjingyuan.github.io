@@ -38,18 +38,18 @@ cp themes/jane/exampleSite/config.toml ./
 &lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;6启动-hugo-服务器&#34;&gt;6、启动 Hugo 服务器&lt;/h2&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-shortcode&#34; data-lang=&#34;shortcode&#34;&gt;hugo server  
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;在 http://localhost:1313/ 将会看到示例 jane 主题的示例网站：&lt;/p&gt;
-&lt;h2 id=&#34;7默认配置文件-configtoml-位于你的网站的根目录请按自身需要进行定制&#34;&gt;7、默认配置文件 config.toml 位于你的网站的根目录，请按自身需要进行定制。&lt;/h2&gt;
-&lt;p&gt;默认的文章文件位于 ./content/post 目录，写好文章后用hugo命令编译。bat脚本&lt;/p&gt;
+&lt;h2 id=&#34;7默认配置&#34;&gt;7、默认配置&lt;/h2&gt;
+&lt;p&gt;文件 config.toml 位于你的网站的根目录，请按自身需要进行定制。
+默认的文章文件位于 ./content/post 目录，写好文章后用hugo命令编译。bat脚本：&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-shortcode&#34; data-lang=&#34;shortcode&#34;&gt;cmd /k &amp;#34;cd /d D:\hugo\xingjingyuan&amp;amp;&amp;amp;Hugo&amp;#34;
 &lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;8github客户端绑定到public目录&#34;&gt;8、github客户端绑定到public目录&lt;/h2&gt;
 &lt;h2 id=&#34;9yaml示例&#34;&gt;9、YAML示例&lt;/h2&gt;
-&lt;h2 id=&#34;10常用定义&#34;&gt;10、常用定义&lt;/h2&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-shortcode&#34; data-lang=&#34;shortcode&#34;&gt;title: &amp;#34;An Example Post&amp;#34;            标题
-date: 2018-01-01T16:01:23+08:00     创建时间
-lastmod: 2018-01-02T16:01:23+08:00  最后修改时间
-draft: false                        是否是草稿？
-tags: [&amp;#34;tag-1&amp;#34;, &amp;#34;tag-2&amp;#34;, &amp;#34;tag-3&amp;#34;]   标签
-categories: [&amp;#34;index&amp;#34;]               分类
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-shortcode&#34; data-lang=&#34;shortcode&#34;&gt;title: &amp;#34;An Example Post&amp;#34;            #标题
+date: 2018-01-01T16:01:23+08:00     #创建时间
+lastmod: 2018-01-02T16:01:23+08:00  #最后修改时间
+draft: false                        #是否是草稿？
+tags: [&amp;#34;tag-1&amp;#34;, &amp;#34;tag-2&amp;#34;, &amp;#34;tag-3&amp;#34;]   #标签
+categories: [&amp;#34;index&amp;#34;]               #分类
 -
 menu:                             #主页菜单设置
   main:
@@ -60,22 +60,22 @@ author: &amp;#34;xianmin&amp;#34;                  # 作者
 
 用户自定义
 你可以选择 关闭(false) 或者 打开(true) 以下选项
-comment: false    关闭评论
-toc: false        关闭文章目录
+comment: false    #关闭评论
+toc: false        #关闭文章目录
  你同样可以自定义文章的版权规则
 contentCopyright: &amp;#39;&amp;lt;a rel=&amp;#34;license noopener&amp;#34; href=&amp;#34;https://creativecommons.org/licenses/by-nc-nd/4.0/&amp;#34; target=&amp;#34;_blank&amp;#34;&amp;gt;CC BY-NC-ND 4.0&amp;lt;/a&amp;gt;&amp;#39;
-reward: false	  关闭打赏
-mathjax: true     打开 mathjax
-&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;11多语言支持&#34;&gt;11、多语言支持&lt;/h2&gt;
+reward: false	  #关闭打赏
+mathjax: true     #打开 mathjax
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;10多语言支持&#34;&gt;10、多语言支持&lt;/h2&gt;
 &lt;p&gt;Hugo-Theme-Jane 支持创建多语言网站。
 你需要为你的网站对 languages 进行配置。
 翻译位于 i18n/ 文件夹下。
 使用特定的翻译：
-使用中文：
-defaultContentLanguage = &amp;ldquo;zh-cn&amp;rdquo;  # 默认使用的语言
+使用中文：&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-shortcode&#34; data-lang=&#34;shortcode&#34;&gt;defaultContentLanguage = &amp;#34;zh-cn&amp;#34;  # 默认使用的语言
 [Languages.zh-cn]
-languageCode = &amp;ldquo;zh-cn&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;模版推荐：Fixit，moment，paper，loveit，jane&lt;/p&gt;
+languageCode = &amp;#34;zh-cn&amp;#34;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;模版推荐：Fixit，moment，paper，loveit，jane&lt;/p&gt;
 </description>
       
     </item>
