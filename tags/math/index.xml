@@ -7,11 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>xingjingyuan</copyright>
-    <lastBuildDate>Mon, 04 Mar 2019 16:01:23 +0800</lastBuildDate><atom:link href="http://xingjingyuan.cn/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Mar 2020 16:01:23 +0800</lastBuildDate><atom:link href="http://xingjingyuan.cn/tags/math/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Demo: Math</title>
       <link>http://xingjingyuan.cn/post/5-math/</link>
-      <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
+      <pubDate>Wed, 04 Mar 2020 16:01:23 +0800</pubDate>
       
       <guid>http://xingjingyuan.cn/post/5-math/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.intmath.com/cg5/katex-mathjax-comparison.php&#34;&gt;KaTeX and MathJax Comparison Demo, currently processed as KaTeX&lt;/a&gt;&lt;/p&gt;</description>
