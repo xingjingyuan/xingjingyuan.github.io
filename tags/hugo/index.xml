@@ -17,5 +17,14 @@
       <description>1、下载hugo Windows版本 2、将hugo路径添加到环境变量 3、快速创建网站 Hugo new site xingjingyuan 4、下载模版，遇到无法获取问题。 解决：通过git取</description>
     </item>
     
+    <item>
+      <title>胡润排行榜</title>
+      <link>http://xingjingyuan.cn/post/9%E8%83%A1%E6%B6%A6/</link>
+      <pubDate>Mon, 08 May 2023 14:30:47 +0800</pubDate>
+      
+      <guid>http://xingjingyuan.cn/post/9%E8%83%A1%E6%B6%A6/</guid>
+      <description>胡润百富排行榜 胡润全球独角兽排行榜 牛羚、瞪羚、独角兽、雏鹰企业 戴维斯家族投资理念 六大蓝血“蓝血”的定义是来自于西班牙贵族，他们用“蓝色血液”</description>
+    </item>
+    
   </channel>
 </rss>
