@@ -30,6 +30,13 @@
   </url>
   
   <url>
+    <loc>http://xingjingyuan.cn/categories/mba/</loc>
+    <lastmod>2023-05-08T14:30:47+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://xingjingyuan.cn/post/</loc>
     <lastmod>2023-05-08T14:30:47+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -52,6 +59,13 @@
   
   <url>
     <loc>http://xingjingyuan.cn/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
+    <lastmod>2023-05-08T14:30:47+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://xingjingyuan.cn/post/11%E7%BB%84%E7%BB%87%E8%A1%8C%E4%B8%BA%E5%AD%A6/</loc>
     <lastmod>2023-05-08T14:30:47+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
