@@ -93,6 +93,7 @@ languageCode = &amp;#34;zh-cn&amp;#34;
 &lt;p&gt;好职业：
 中国：军队文职，有编制的学术工作者、中国烟草、中国石油、建筑建设国企、国企银行、老师、公务员、事业单位
 美国：内科医生、外科医生、大学校长、宇航员、市长、律师、大学教授、建筑师、环保科学家、生物学家&amp;hellip;16工程师&lt;/p&gt;
+&lt;p&gt;遛鸟，象棋，茶，红酒，烤鸭，糖葫芦，地标，年画，市花&lt;/p&gt;
 </description>
       
     </item>
@@ -143,13 +144,17 @@ languageCode = &amp;#34;zh-cn&amp;#34;
     </item>
     
     <item>
-      <title>关于</title>
-      <link>http://xingjingyuan.cn/about/</link>
-      <pubDate>Mon, 08 May 2023 14:29:44 +0800</pubDate>
+      <title>计算机好书推荐</title>
+      <link>http://xingjingyuan.cn/post/12%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BC%96%E7%A8%8B%E6%8E%A8%E8%8D%90/</link>
+      <pubDate>Mon, 08 May 2023 14:30:47 +0800</pubDate>
       
-      <guid>http://xingjingyuan.cn/about/</guid>
+      <guid>http://xingjingyuan.cn/post/12%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BC%96%E7%A8%8B%E6%8E%A8%E8%8D%90/</guid>
       
-        <description>&lt;p&gt;123&lt;/p&gt;
+        <description>&lt;p&gt;明解C语言&lt;/p&gt;
+&lt;p&gt;cprimer plus&lt;/p&gt;
+&lt;p&gt;C程序设计语言 k&amp;amp;r&lt;/p&gt;
+&lt;p&gt;c标准库&lt;/p&gt;
+&lt;p&gt;算法练习平台leetcode；lintcode&lt;/p&gt;
 </description>
       
     </item>
@@ -1053,6 +1058,18 @@ $
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>关于</title>
+      <link>http://xingjingyuan.cn/about/</link>
+      <pubDate>Tue, 08 May 2012 14:29:44 +0800</pubDate>
+      
+      <guid>http://xingjingyuan.cn/about/</guid>
+      
+        <description>&lt;p&gt;关注领域：军工、珠宝、电商、人工智能、工程咨询、新能源、投资、工程建设、运营、教育&lt;/p&gt;
+</description>
       
     </item>
     
