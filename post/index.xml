@@ -153,6 +153,15 @@
     </item>
     
     <item>
+      <title>蒸汽眼罩</title>
+      <link>http://xingjingyuan.cn/post/25%E8%92%B8%E6%B1%BD%E7%9C%BC%E7%BD%A9/</link>
+      <pubDate>Mon, 08 May 2023 14:30:47 +0800</pubDate>
+      
+      <guid>http://xingjingyuan.cn/post/25%E8%92%B8%E6%B1%BD%E7%9C%BC%E7%BD%A9/</guid>
+      <description>整体眼罩是通过自发热原理来护理眼部，他通过眼罩内部发热与空气中的氧气产生反应发热，伴随细润的蒸汽，并由外至内滋润眼部，促进眼部周围血液循环，</description>
+    </item>
+    
+    <item>
       <title>计算机好书推荐</title>
       <link>http://xingjingyuan.cn/post/12%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BC%96%E7%A8%8B%E6%8E%A8%E8%8D%90/</link>
       <pubDate>Mon, 08 May 2023 14:30:47 +0800</pubDate>
@@ -182,15 +191,6 @@
       
       <guid>http://xingjingyuan.cn/post/6-shortcode-notice/</guid>
       <description>normal use Note example: {{% notice note %}} A notice disclaimer {{% /notice %}} Result: You could custom title : {{% notice note 笔记 %}} A notice disclaimer {{% /notice %}} tip {{% notice tip %}} A tip disclaimer {{% /tip %}} info {{% notice info %}} A info disclaimer {{% /notice %}} warning {{% notice warning %}} A warning disclaimer {{% /notice %}}</description>
-    </item>
-    
-    <item>
-      <title>Demo: Math</title>
-      <link>http://xingjingyuan.cn/post/5-math/</link>
-      <pubDate>Wed, 04 Mar 2020 16:01:23 +0800</pubDate>
-      
-      <guid>http://xingjingyuan.cn/post/5-math/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.intmath.com/cg5/katex-mathjax-comparison.php&#34;&gt;KaTeX and MathJax Comparison Demo, currently processed as KaTeX&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
