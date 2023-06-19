@@ -17,5 +17,14 @@
       <description>从学术的观点看，人工智能主要分三大学派，分别是符号主义学派、连接主义学派和行为主义学派。在对人工智能进行研究时，可能会按照某一理论或方法展开</description>
     </item>
     
+    <item>
+      <title>github访问</title>
+      <link>http://xingjingyuan.cn/post/26github%E8%AE%BF%E9%97%AE/</link>
+      <pubDate>Wed, 08 Mar 2023 14:30:47 +0800</pubDate>
+      
+      <guid>http://xingjingyuan.cn/post/26github%E8%AE%BF%E9%97%AE/</guid>
+      <description>为什么会访问失败或者速度很慢？ 国内网络访问 Github 速度过慢的原因有许多，但其中最直接和原因是其 CND 域名遭到 DNS 污染，导致我们无法连接使用 GitHub 的加速服务，</description>
+    </item>
+    
   </channel>
 </rss>

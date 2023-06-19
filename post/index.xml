@@ -171,6 +171,15 @@
     </item>
     
     <item>
+      <title>github访问</title>
+      <link>http://xingjingyuan.cn/post/26github%E8%AE%BF%E9%97%AE/</link>
+      <pubDate>Wed, 08 Mar 2023 14:30:47 +0800</pubDate>
+      
+      <guid>http://xingjingyuan.cn/post/26github%E8%AE%BF%E9%97%AE/</guid>
+      <description>为什么会访问失败或者速度很慢？ 国内网络访问 Github 速度过慢的原因有许多，但其中最直接和原因是其 CND 域名遭到 DNS 污染，导致我们无法连接使用 GitHub 的加速服务，</description>
+    </item>
+    
+    <item>
       <title>Demo: more Shortcodes</title>
       <link>http://xingjingyuan.cn/post/7-shortcodes-preview/</link>
       <pubDate>Fri, 04 Mar 2022 16:01:23 +0800</pubDate>
@@ -182,15 +191,6 @@
 &lt;p&gt;A shortcode is a simple snippet inside a content file that Hugo will render using a predefined template. Note that shortcodes will not work in template files. If you need the type of drop-in functionality that shortcodes provide but in a template, you most likely want a [partial template][partials] instead.&lt;/p&gt;
 &lt;p&gt;In addition to cleaner Markdown, shortcodes can be updated any time to reflect new classes, techniques, or standards. At the point of site generation, Hugo shortcodes will easily merge in your changes. You avoid a possibly complicated search and replace operation.&lt;/p&gt;
 &lt;p&gt;More details: &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/&#34;&gt;https://gohugo.io/content-management/shortcodes/&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Demo: Shortcodes Notice</title>
-      <link>http://xingjingyuan.cn/post/6-shortcode-notice/</link>
-      <pubDate>Wed, 03 Mar 2021 16:01:23 +0800</pubDate>
-      
-      <guid>http://xingjingyuan.cn/post/6-shortcode-notice/</guid>
-      <description>normal use Note example: {{% notice note %}} A notice disclaimer {{% /notice %}} Result: You could custom title : {{% notice note 笔记 %}} A notice disclaimer {{% /notice %}} tip {{% notice tip %}} A tip disclaimer {{% /tip %}} info {{% notice info %}} A info disclaimer {{% /notice %}} warning {{% notice warning %}} A warning disclaimer {{% /notice %}}</description>
     </item>
     
   </channel>
