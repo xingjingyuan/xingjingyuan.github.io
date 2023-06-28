@@ -27,15 +27,6 @@
     </item>
     
     <item>
-      <title>工学</title>
-      <link>http://xingjingyuan.cn/categories/%E5%B7%A5%E5%AD%A6/</link>
-      <pubDate>Mon, 08 May 2023 14:30:47 +0800</pubDate>
-      
-      <guid>http://xingjingyuan.cn/categories/%E5%B7%A5%E5%AD%A6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>理工</title>
       <link>http://xingjingyuan.cn/categories/%E7%90%86%E5%B7%A5/</link>
       <pubDate>Mon, 08 May 2023 14:30:47 +0800</pubDate>
@@ -54,20 +45,38 @@
     </item>
     
     <item>
-      <title>经济学</title>
-      <link>http://xingjingyuan.cn/categories/%E7%BB%8F%E6%B5%8E%E5%AD%A6/</link>
-      <pubDate>Mon, 08 May 2023 14:30:47 +0800</pubDate>
-      
-      <guid>http://xingjingyuan.cn/categories/%E7%BB%8F%E6%B5%8E%E5%AD%A6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>计算机科学</title>
       <link>http://xingjingyuan.cn/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/</link>
       <pubDate>Mon, 08 May 2023 14:30:47 +0800</pubDate>
       
       <guid>http://xingjingyuan.cn/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>哲学</title>
+      <link>http://xingjingyuan.cn/categories/%E5%93%B2%E5%AD%A6/</link>
+      <pubDate>Wed, 08 Mar 2023 14:30:47 +0800</pubDate>
+      
+      <guid>http://xingjingyuan.cn/categories/%E5%93%B2%E5%AD%A6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>工学</title>
+      <link>http://xingjingyuan.cn/categories/%E5%B7%A5%E5%AD%A6/</link>
+      <pubDate>Wed, 08 Mar 2023 14:30:47 +0800</pubDate>
+      
+      <guid>http://xingjingyuan.cn/categories/%E5%B7%A5%E5%AD%A6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>经济学</title>
+      <link>http://xingjingyuan.cn/categories/%E7%BB%8F%E6%B5%8E%E5%AD%A6/</link>
+      <pubDate>Wed, 08 Mar 2023 14:30:47 +0800</pubDate>
+      
+      <guid>http://xingjingyuan.cn/categories/%E7%BB%8F%E6%B5%8E%E5%AD%A6/</guid>
       <description></description>
     </item>
     
