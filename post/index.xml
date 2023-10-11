@@ -7,14 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>xingjingyuan@petalmail.com</copyright>
-    <lastBuildDate>Tue, 13 Jun 2023 14:30:47 +0800</lastBuildDate><atom:link href="http://xingjingyuan.cn/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Jun 2023 14:29:44 +0800</lastBuildDate><atom:link href="http://xingjingyuan.cn/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>北京市高精尖学科</title>
+      <link>http://xingjingyuan.cn/post/18%E5%8C%97%E4%BA%AC%E5%B8%82%E9%AB%98%E7%B2%BE%E5%B0%96%E5%AD%A6%E7%A7%91/</link>
+      <pubDate>Thu, 15 Jun 2023 14:29:44 +0800</pubDate>
+      
+      <guid>http://xingjingyuan.cn/post/18%E5%8C%97%E4%BA%AC%E5%B8%82%E9%AB%98%E7%B2%BE%E5%B0%96%E5%AD%A6%E7%A7%91/</guid>
+      <description>附件 北京高校高精尖学科建设名单 （按学校代码排序） 北京大学：智慧医疗工程与技术、人工智能、分子光谱学 中国人民大学：新时代中国经济学、科技金融 清</description>
+    </item>
+    
     <item>
       <title>硕士博士</title>
       <link>http://xingjingyuan.cn/post/14%E7%A1%95%E5%A3%AB%E5%8D%9A%E5%A3%AB/</link>
-      <pubDate>Tue, 13 Jun 2023 14:30:47 +0800</pubDate>
+      <pubDate>Sat, 13 May 2023 14:30:47 +0800</pubDate>
       
       <guid>http://xingjingyuan.cn/post/14%E7%A1%95%E5%A3%AB%E5%8D%9A%E5%A3%AB/</guid>
       <description>本科生：捡死兔兔 学习已经被前人反复研究透了的基础知识。 硕士生：打活兔兔 导师告诉你兔兔在哪，给你工具，教你打兔兔的方法。 博士生：找到活兔兔+打</description>
+    </item>
+    
+    <item>
+      <title>github访问</title>
+      <link>http://xingjingyuan.cn/post/26github%E8%AE%BF%E9%97%AE/</link>
+      <pubDate>Mon, 08 May 2023 14:30:47 +0800</pubDate>
+      
+      <guid>http://xingjingyuan.cn/post/26github%E8%AE%BF%E9%97%AE/</guid>
+      <description>为什么会访问失败或者速度很慢？ 国内网络访问 Github 速度过慢的原因有许多，但其中最直接和原因是其 CND 域名遭到 DNS 污染，导致我们无法连接使用 GitHub 的加速服务，</description>
     </item>
     
     <item>
@@ -114,24 +132,6 @@
       
       <guid>http://xingjingyuan.cn/post/25%E8%92%B8%E6%B1%BD%E7%9C%BC%E7%BD%A9/</guid>
       <description>蒸汽眼罩是通过自发热原理来护理眼部，他通过眼罩内部发热与空气中的氧气产生反应发热，伴随细润的蒸汽，并由外至内滋润眼部，促进眼部周围血液循环，</description>
-    </item>
-    
-    <item>
-      <title>北京市高精尖学科</title>
-      <link>http://xingjingyuan.cn/post/18%E5%8C%97%E4%BA%AC%E5%B8%82%E9%AB%98%E7%B2%BE%E5%B0%96%E5%AD%A6%E7%A7%91/</link>
-      <pubDate>Mon, 08 May 2023 14:29:44 +0800</pubDate>
-      
-      <guid>http://xingjingyuan.cn/post/18%E5%8C%97%E4%BA%AC%E5%B8%82%E9%AB%98%E7%B2%BE%E5%B0%96%E5%AD%A6%E7%A7%91/</guid>
-      <description>附件 北京高校高精尖学科建设名单 （按学校代码排序） 北京大学：智慧医疗工程与技术、人工智能、分子光谱学 中国人民大学：新时代中国经济学、科技金融 清</description>
-    </item>
-    
-    <item>
-      <title>github访问</title>
-      <link>http://xingjingyuan.cn/post/26github%E8%AE%BF%E9%97%AE/</link>
-      <pubDate>Wed, 08 Mar 2023 14:30:47 +0800</pubDate>
-      
-      <guid>http://xingjingyuan.cn/post/26github%E8%AE%BF%E9%97%AE/</guid>
-      <description>为什么会访问失败或者速度很慢？ 国内网络访问 Github 速度过慢的原因有许多，但其中最直接和原因是其 CND 域名遭到 DNS 污染，导致我们无法连接使用 GitHub 的加速服务，</description>
     </item>
     
     <item>

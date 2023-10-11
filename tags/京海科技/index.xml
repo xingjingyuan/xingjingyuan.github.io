@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>xingjingyuan@petalmail.com</copyright>
-    <lastBuildDate>Mon, 08 May 2023 14:30:47 +0800</lastBuildDate><atom:link href="http://xingjingyuan.cn/tags/%E4%BA%AC%E6%B5%B7%E7%A7%91%E6%8A%80/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Jun 2023 14:29:44 +0800</lastBuildDate><atom:link href="http://xingjingyuan.cn/tags/%E4%BA%AC%E6%B5%B7%E7%A7%91%E6%8A%80/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>北京市高精尖学科</title>
+      <link>http://xingjingyuan.cn/post/18%E5%8C%97%E4%BA%AC%E5%B8%82%E9%AB%98%E7%B2%BE%E5%B0%96%E5%AD%A6%E7%A7%91/</link>
+      <pubDate>Thu, 15 Jun 2023 14:29:44 +0800</pubDate>
+      
+      <guid>http://xingjingyuan.cn/post/18%E5%8C%97%E4%BA%AC%E5%B8%82%E9%AB%98%E7%B2%BE%E5%B0%96%E5%AD%A6%E7%A7%91/</guid>
+      <description>附件 北京高校高精尖学科建设名单 （按学校代码排序） 北京大学：智慧医疗工程与技术、人工智能、分子光谱学 中国人民大学：新时代中国经济学、科技金融 清</description>
+    </item>
+    
+    <item>
+      <title>github访问</title>
+      <link>http://xingjingyuan.cn/post/26github%E8%AE%BF%E9%97%AE/</link>
+      <pubDate>Mon, 08 May 2023 14:30:47 +0800</pubDate>
+      
+      <guid>http://xingjingyuan.cn/post/26github%E8%AE%BF%E9%97%AE/</guid>
+      <description>为什么会访问失败或者速度很慢？ 国内网络访问 Github 速度过慢的原因有许多，但其中最直接和原因是其 CND 域名遭到 DNS 污染，导致我们无法连接使用 GitHub 的加速服务，</description>
+    </item>
+    
     <item>
       <title>人工智能</title>
       <link>http://xingjingyuan.cn/post/23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</link>
@@ -69,24 +87,6 @@
       
       <guid>http://xingjingyuan.cn/post/16%E7%B3%BB%E7%BB%9F%E5%9F%BA%E6%9C%AC%E8%A7%84%E5%BE%8B/</guid>
       <description>孙子曰：“知彼知己，百战不殆。”我们时时置身于系统中，却对系统的了解少之又少，如果大家能够耐下性子读完这篇文章，就能对系统的基本规律有一个大</description>
-    </item>
-    
-    <item>
-      <title>北京市高精尖学科</title>
-      <link>http://xingjingyuan.cn/post/18%E5%8C%97%E4%BA%AC%E5%B8%82%E9%AB%98%E7%B2%BE%E5%B0%96%E5%AD%A6%E7%A7%91/</link>
-      <pubDate>Mon, 08 May 2023 14:29:44 +0800</pubDate>
-      
-      <guid>http://xingjingyuan.cn/post/18%E5%8C%97%E4%BA%AC%E5%B8%82%E9%AB%98%E7%B2%BE%E5%B0%96%E5%AD%A6%E7%A7%91/</guid>
-      <description>附件 北京高校高精尖学科建设名单 （按学校代码排序） 北京大学：智慧医疗工程与技术、人工智能、分子光谱学 中国人民大学：新时代中国经济学、科技金融 清</description>
-    </item>
-    
-    <item>
-      <title>github访问</title>
-      <link>http://xingjingyuan.cn/post/26github%E8%AE%BF%E9%97%AE/</link>
-      <pubDate>Wed, 08 Mar 2023 14:30:47 +0800</pubDate>
-      
-      <guid>http://xingjingyuan.cn/post/26github%E8%AE%BF%E9%97%AE/</guid>
-      <description>为什么会访问失败或者速度很慢？ 国内网络访问 Github 速度过慢的原因有许多，但其中最直接和原因是其 CND 域名遭到 DNS 污染，导致我们无法连接使用 GitHub 的加速服务，</description>
     </item>
     
     <item>
