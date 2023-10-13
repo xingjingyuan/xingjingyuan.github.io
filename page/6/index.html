@@ -303,7 +303,7 @@
   <header class="post-header">
     <h1 class="post-title">
       
-      <a class="post-link" href="/post/31%E8%87%AA%E7%84%B6%E8%BE%A9%E8%AF%81%E6%B3%95/">自然辩证法</a>
+      <a class="post-link" href="/post/10-hogoinstall/">Hogo安装过程</a>
     </h1>
     
 
@@ -319,8 +319,8 @@
   </div>
 
   <div class="post-meta-time">
-    <time datetime="2023-03-08">
-      2023-03-08
+    <time datetime="2023-02-28">
+      2023-02-28
     </time>
   </div>
 
@@ -331,7 +331,7 @@
     
 
     <div class="post-meta-category">
-        <a href="http://xingjingyuan.cn/categories/%E6%95%99%E8%82%B2%E5%AD%A6/"> 教育学 </a>
+        <a href="http://xingjingyuan.cn/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/"> 计算机科学 </a>
           
       </div>
 
@@ -350,10 +350,10 @@
   <div class="post-content">
     
       <div class="post-summary">
-        自然辩证法 孙芳 感性是一切科学的基础 反杜林论；可汗学院，Pilot ACE 亚里士多德 哲学知识：1、理论知识（数学、物理、形而上学）2、实践知识（政治
+        1、下载hugo Windows版本 2、将hugo路径添加到环境变量 3、快速创建网站 Hugo new site xingjingyuan 4、下载模版，遇到无法获取问题。 解决：通过git取
       </div>
       <div class="read-more">
-        <a href="/post/31%E8%87%AA%E7%84%B6%E8%BE%A9%E8%AF%81%E6%B3%95/" class="read-more-link"
+        <a href="/post/10-hogoinstall/" class="read-more-link"
           >Read more</a
         >
       </div>
@@ -366,7 +366,7 @@
   <header class="post-header">
     <h1 class="post-title">
       
-      <a class="post-link" href="/post/27%E7%B2%BE%E7%A5%9E%E8%B4%B5%E6%97%8F/">解读《中国国民性的演变历程》</a>
+      <a class="post-link" href="/post/9-github%E8%AE%BF%E9%97%AE/">github访问</a>
     </h1>
     
 
@@ -382,8 +382,8 @@
   </div>
 
   <div class="post-meta-time">
-    <time datetime="2023-03-08">
-      2023-03-08
+    <time datetime="2023-02-08">
+      2023-02-08
     </time>
   </div>
 
@@ -394,7 +394,7 @@
     
 
     <div class="post-meta-category">
-        <a href="http://xingjingyuan.cn/categories/%E5%93%B2%E5%AD%A6/"> 哲学 </a>
+        <a href="http://xingjingyuan.cn/categories/%E7%90%86%E5%B7%A5/"> 理工 </a>
           
       </div>
 
@@ -413,10 +413,10 @@
   <div class="post-content">
     
       <div class="post-summary">
-        解读《中国国民性的演变历程》 今天想和大家聊一本书《中国国民性的演变历程》，作者是张宏杰，这是我这几年看到的关于中国人国民性形成研究最深入的一
+        为什么会访问失败或者速度很慢？ 国内网络访问 Github 速度过慢的原因有许多，但其中最直接和原因是其 CND 域名遭到 DNS 污染，导致我们无法连接使用 GitHub 的加速服务，
       </div>
       <div class="read-more">
-        <a href="/post/27%E7%B2%BE%E7%A5%9E%E8%B4%B5%E6%97%8F/" class="read-more-link"
+        <a href="/post/9-github%E8%AE%BF%E9%97%AE/" class="read-more-link"
           >Read more</a
         >
       </div>
@@ -429,7 +429,7 @@
   <header class="post-header">
     <h1 class="post-title">
       
-      <a class="post-link" href="/post/12%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BC%96%E7%A8%8B%E6%8E%A8%E8%8D%90/">计算机好书推荐</a>
+      <a class="post-link" href="/post/7-shortcodes-preview/">Demo: more Shortcodes</a>
     </h1>
     
 
@@ -445,8 +445,8 @@
   </div>
 
   <div class="post-meta-time">
-    <time datetime="2023-03-08">
-      2023-03-08
+    <time datetime="2023-01-07">
+      2023-01-07
     </time>
   </div>
 
@@ -457,7 +457,7 @@
     
 
     <div class="post-meta-category">
-        <a href="http://xingjingyuan.cn/categories/%E5%B7%A5%E5%AD%A6/"> 工学 </a>
+        <a href="http://xingjingyuan.cn/categories/%E7%A4%BA%E4%BE%8B/"> 示例 </a>
           
       </div>
 
@@ -476,10 +476,15 @@
   <div class="post-content">
     
       <div class="post-summary">
-        计算机类： 明解C语言 cprimer plus C程序设计语言 k&amp;r c标准库 算法练习平台leetcode；lintcode 营销类： 艾里斯《定位》，《品牌二十二律》 防杠精
+        <h2 id="what-a-shortcode-is">What a Shortcode is</h2>
+<p>Hugo loves Markdown because of its simple content format, but there are times when Markdown falls short. Often, content authors are forced to add raw HTML (e.g., video <code>&lt;iframes&gt;</code>) to Markdown content. We think this contradicts the beautiful simplicity of Markdown&rsquo;s syntax.</p>
+<p>Hugo created <strong>shortcodes</strong> to circumvent these limitations.</p>
+<p>A shortcode is a simple snippet inside a content file that Hugo will render using a predefined template. Note that shortcodes will not work in template files. If you need the type of drop-in functionality that shortcodes provide but in a template, you most likely want a [partial template][partials] instead.</p>
+<p>In addition to cleaner Markdown, shortcodes can be updated any time to reflect new classes, techniques, or standards. At the point of site generation, Hugo shortcodes will easily merge in your changes. You avoid a possibly complicated search and replace operation.</p>
+<p>More details: <a href="https://gohugo.io/content-management/shortcodes/">https://gohugo.io/content-management/shortcodes/</a></p>
       </div>
       <div class="read-more">
-        <a href="/post/12%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BC%96%E7%A8%8B%E6%8E%A8%E8%8D%90/" class="read-more-link"
+        <a href="/post/7-shortcodes-preview/" class="read-more-link"
           >Read more</a
         >
       </div>
