@@ -7,10 +7,77 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>xingjingyuan@petalmail.com</copyright>
-    <lastBuildDate>Sat, 08 Jul 2023 14:30:47 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 16 Oct 2023 14:30:47 +0800</lastBuildDate>
     
         <atom:link href="http://xingjingyuan.cn/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>逻辑树</title>
+      <link>http://xingjingyuan.cn/post/33%E9%80%BB%E8%BE%91%E6%A0%91/</link>
+      <pubDate>Mon, 16 Oct 2023 14:30:47 +0800</pubDate>
+      
+      <guid>http://xingjingyuan.cn/post/33%E9%80%BB%E8%BE%91%E6%A0%91/</guid>
+      
+        <description>&lt;p&gt;麦肯锡有三种逻辑树：议题树、假设树和是否树。
+议题树：提出问题，然后将这一问题细分为多个与其有内在逻辑联系的副议题，议题树多应用于问题解决的初期阶段
+假设树：先假设一种解决方案，之后通过已掌握的论据对该方案进行证实/证伪，假设树多应用于对问题已经有了足够的了解，可以提出合理假设时
+是否树：先提一个问题，之后对这个问题进行判断分析，分析结果只有“是”和“否”两种，是否树多应用于对问题及其结构已足够了解时&lt;/p&gt;
+&lt;p&gt;逻辑树（Issue Tree）是一种以树状图形来分析存在问题及其相关关系的方法，它是将看似无序、杂乱的已知问题，通过某种技术手段将它们转化成可以预测未知实例的树状模型。文章对三种逻辑树进行了梳理说明，对具体的构建方法展开了分析，与大家分享。&lt;/p&gt;
+&lt;p&gt;什么是逻辑树
+逻辑树又称为演绎树或分解树，英文叫做Issue Tree，是一种以树状图形来分析存在的问题及其相互关系的方法。
+它的起源历史悠久，之前被广泛的应用在数学领域，科学领域，随着互联网行业的发展，更多的企业把它融入到了管理学，流程学领域，咨询学领域，我们熟知的麦肯锡、贝恩咨询、罗兰贝格咨询、更是应用逻辑树的行家里手，在多数的资料中更有根据逻辑树编辑的成熟模型应用。
+逻辑树的原理
+首先将一个已知问题当成树干，然后开始思考这个问题与哪些相关问题或子任务有关，每想到一点就给这个问题（也就是树干）加一个“树枝”，并标明这个“树枝”代表什么问题，一个大的“树枝”上还可以有小的“树枝”，如此类推，直到找出所有相关的项目。
+这里面要注意两点：一个是想，脑袋里要有清晰的主线问题与支线条件，另一个是画，一定要画出来，同时印证脑内的构想。
+使用逻辑树有以下优点：
+1）通过“树干”和“树枝”的搭建，找出问题的所有相关项，以此确保问题获得完整的解决；
+2）通过问题与问题的关联，识别哪些是必须的，哪些是证明前提假设的重点；
+3）个人使用时能帮助理清思路，将大问题分解为利于操作和解决的小问题；
+4）团队使用时，能将大问题分解为小问题再落实到个人，避免责任不清。
+逻辑树有三种类型，分别是：问题树、假设树、是否树。这三种逻辑树结构类似，但是有不同的使用前提，合理的使用它们，对于我们分析问题和制定解决方案能起到事倍功半的效果。
+三种逻辑树（议题树、假设树、是否树）&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;议题树
+当对问题不了解 ，或者需要对问题进行全面的分解以确保不遗漏任何一个方面时，可以使用议题树。即：在解决问题的初始阶段使用议题树。
+议题树可按照如下步骤来构建：
+1）先从左至右画出树状图，明确“思考的主题”，
+2）将问题进行分解，分解为第一层级上的问题；
+3）将第一层级的问题再次分解，得到第二层级；以此类推，可以将问题逐级分解，从而得到第三层级、第四层级，乃至更多。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;注意：
+1）相邻层级具有逻辑上的内在直接联系；
+2）同一层级上的内容，需要满足相互独立、完全穷尽的原则（MECE原则）。这样构建的议题树就会是完整展现了所有不同原因、结构化的逻辑树。
+这一方法的关键点在于：如何对问题或者议题进行分解？这里有两个小技巧可以帮到大家。
+a）结果改善类的问题：层层展开，不断问——“为什么”（这与深度思考一书提到的知识点如出一辙）
+当我们分析“结果不好，应当如何改良”这一类问题的时候，可以通过不断地询问“为什么会出现不好的结果”来对问题进行分解。
+b)提出方案类问题：集思广益，不断想——“怎么做”
+跟结果改善类问题不同的点在于：这里并没有一个不好的结果，只是着眼于现在的情况，需要提出就达成某一目标的方案。比如：提高销售额的方案（也许现在的销售额也还可以，但是想进一步提升，因此主要的问题是“如何做”）。
+2. 假设树
+当对问题已经有了较为充足的了解，并且针对问题提出了某种假设的解决方案，需要验证假设是否成立时，应该采用假设树。即，假设树用于验证假设。
+假设树针对所提出的假设，不求展现问题的全貌，只要能够验证假设合理或者不合理即可，这是其与议题树最大的不同。假设树集中于假设的解决方案，加快解决问题的进程。假设树的结构如下：
+假设树的结构
+对于某种假设方案，只有当所有论点都支持该方案时，该假设方案可以得到验证，否则会被推翻。对于每一个论点同样可以进行分解，直至分解到可以被基本假设证实或证伪。
+假如需要针对X公司制定“提高销量”的方案，我们通过上文的议题树进行分析，了解了公司各方面的情况之后，觉得该公司可能可以通过研发新品来获得销量提升，遂提出“X公司应该研发新产品”这一假设，为了验证假设是否成立，则可以构建如下假设树。
+针对“X公司应该研发新产品”假设的假设树&lt;/p&gt;
+&lt;p&gt;只要我们将第三层次的7个论点进行验证，就可以证明“X公司应该研发新产品”这一假设是否合理。
+3. 是否树
+是否树的结构比前两种要简单很多，其主要形式是：先提出一个问题，然后对这一问题进行是否判断，分析的结果只能是“是”或者“否”；然后接着进行下一轮判断分析，继续得出分析结果“是”或者“否”。是否树的结构如下：
+是否树结构
+在使用是否树进行分析前，对一些结果应已有标准方案。如果答案为“是”，就可以应用实现准备好的标准方案。如果答案为“否”，那就需要再进行下一轮的判断分析，对具体情况进行具体分析，根据结果确定解决方案。是否树多在对问题及其结构已经足够了解时使用。
+比如，以下是分析“X公司B产品线如何才能获得竞争力”时的是否树：&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;三种逻辑树的区别于使用情景
+最后，再就三种逻辑树的区别和其适用的场景进行简单的分析。
+问题的初始阶段，尚不明确具体情况，需要对问题进行全盘分析时，使用议题树；对问题已经有一定了解了，并且有了一种假设方案，对假设方案进行验证，使用假设树；对问题不仅足够了解，且针对一些结果已经有了标准方案，需要在方案中进行选择时，使用假设树。
+总结
+无论是工具还是科技，其实都是辅助大家提高大家工作效率的手段。工欲善其事,必先利其器，古人的意思很直白，如果是为了工作，什么都要用最好的，不求最贵但求最好。
+硬件要用最好的电脑，软件要用最高效的工具，别怕花钱，穷也就穷一时。
+有效利用以上工作法门，培养自己逻辑思维能力，有效利用构图，深度思考计划流程，经过长年的锻炼你必将在专业度上胜人一筹。&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+      
+    </item>
     
     <item>
       <title>自然辩证法</title>
@@ -649,6 +716,7 @@ ieee&lt;/p&gt;
 &lt;p&gt;南开：经济学、政治经济学
 天大:海洋船舶工程、应用化学（制药）、电子、软件&lt;/p&gt;
 &lt;p&gt;好学科：工科 工程、计算机、生物、法律、金融、数据科学&lt;/p&gt;
+&lt;p&gt;中外合作大学有：上海纽约大学、西交利物浦大学、昆山杜克大学、宁波诺丁汉大学、温州肯恩大学、深圳北理莫斯科大学、广东以色列理工学院、苏州百年职业学院、福州墨尔本理工职业学院、郑州亚欧交通职业学院等。&lt;/p&gt;
 &lt;p&gt;人性、权谋&lt;/p&gt;
 &lt;p&gt;本科生：捡死兔兔
 学习已经被前人反复研究透了的基础知识。&lt;/p&gt;
@@ -1364,153 +1432,6 @@ A warning disclaimer
 {{% /notice %}}
 &lt;/code&gt;&lt;/pre&gt;&lt;!-- raw HTML omitted --&gt;
 </description>
-      
-    </item>
-    
-    <item>
-      <title>Demo: Math</title>
-      <link>http://xingjingyuan.cn/post/5-math/</link>
-      <pubDate>Thu, 05 Jan 2023 16:01:23 +0800</pubDate>
-      
-      <guid>http://xingjingyuan.cn/post/5-math/</guid>
-      
-        <description>&lt;p&gt;&lt;a href=&#34;https://www.intmath.com/cg5/katex-mathjax-comparison.php&#34;&gt;KaTeX and MathJax Comparison Demo, currently processed as KaTeX&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;repeating-fractions&#34;&gt;Repeating fractions&lt;/h2&gt;
-&lt;p&gt;$$
-\frac{1}{\Bigl(\sqrt{\phi \sqrt{5}}-\phi\Bigr) e^{\frac25 \pi}} \equiv 1+\frac{e^{-2\pi}} {1+\frac{e^{-4\pi}} {1+\frac{e^{-6\pi}} {1+\frac{e^{-8\pi}} {1+\cdots} } } }
-$$&lt;/p&gt;
-&lt;h2 id=&#34;summation-notation&#34;&gt;Summation notation&lt;/h2&gt;
-&lt;p&gt;$$
-\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
-$$&lt;/p&gt;
-&lt;h2 id=&#34;sum-of-a-series&#34;&gt;Sum of a Series&lt;/h2&gt;
-&lt;p&gt;I broke up the next two examples into separate lines so it behaves better on a mobile phone. That&amp;rsquo;s why they include \displaystyle.&lt;/p&gt;
-&lt;p&gt;$$
-\displaystyle\sum_{i=1}^{k+1}i
-$$&lt;/p&gt;
-&lt;p&gt;$$
-\displaystyle= \left(\sum_{i=1}^{k}i\right) +(k+1)
-$$&lt;/p&gt;
-&lt;p&gt;$$
-\displaystyle= \frac{k(k+1)}{2}+k+1
-$$&lt;/p&gt;
-&lt;p&gt;$$
-\displaystyle= \frac{k(k+1)+2(k+1)}{2}
-$$&lt;/p&gt;
-&lt;p&gt;$$
-\displaystyle= \frac{(k+1)(k+2)}{2}
-$$&lt;/p&gt;
-&lt;p&gt;$$
-\displaystyle= \frac{(k+1)((k+1)+1)}{2}
-$$&lt;/p&gt;
-&lt;h2 id=&#34;product-notation&#34;&gt;Product notation&lt;/h2&gt;
-&lt;p&gt;$$
-\displaystyle 1 + \frac{q^2}{(1-q)}+\frac{q^6}{(1-q)(1-q^2)}+\cdots = \displaystyle \prod_{j=0}^{\infty}\frac{1}{(1-q^{5j+2})(1-q^{5j+3})}, \displaystyle\text{ for }\lvert q\rvert &amp;lt; 1.
-$$&lt;/p&gt;
-&lt;h2 id=&#34;inline-math&#34;&gt;Inline math&lt;/h2&gt;
-&lt;p&gt;And here is some in-line math: $$ k_{n+1} = n^2 + k_n^2 - k_{n-1} $$ , followed by some more text.&lt;/p&gt;
-&lt;h2 id=&#34;greek-letters&#34;&gt;Greek Letters&lt;/h2&gt;
-&lt;p&gt;$$
-\Gamma\ \Delta\ \Theta\ \Lambda\ \Xi\ \Pi\ \Sigma\ \Upsilon\ \Phi\ \Psi\ \Omega
-\alpha\ \beta\ \gamma\ \delta\ \epsilon\ \zeta\ \eta\ \theta\ \iota\ \kappa\ \lambda\ \mu\ \nu\ \xi \ \omicron\ \pi\ \rho\ \sigma\ \tau\ \upsilon\ \phi\ \chi\ \psi\ \omega\ \varepsilon\ \vartheta\ \varpi\ \varrho\ \varsigma\ \varphi
-$$&lt;/p&gt;
-&lt;h2 id=&#34;arrows&#34;&gt;Arrows&lt;/h2&gt;
-&lt;p&gt;$$
-\gets\ \to\ \leftarrow\ \rightarrow\ \uparrow\ \Uparrow\ \downarrow\ \Downarrow\ \updownarrow\ \Updownarrow
-$$&lt;/p&gt;
-&lt;p&gt;$$
-\Leftarrow\ \Rightarrow\ \leftrightarrow\ \Leftrightarrow\ \mapsto\ \hookleftarrow
-\leftharpoonup\ \leftharpoondown\ \rightleftharpoons\ \longleftarrow\ \Longleftarrow\ \longrightarrow
-$$&lt;/p&gt;
-&lt;p&gt;$$
-\Longrightarrow\ \longleftrightarrow\ \Longleftrightarrow\ \longmapsto\ \hookrightarrow\ \rightharpoonup
-$$&lt;/p&gt;
-&lt;p&gt;$$
-\rightharpoondown\ \leadsto\ \nearrow\ \searrow\ \swarrow\ \nwarrow
-$$&lt;/p&gt;
-&lt;h2 id=&#34;symbols&#34;&gt;Symbols&lt;/h2&gt;
-&lt;p&gt;$$
-\surd\ \barwedge\ \veebar\ \odot\ \oplus\ \otimes\ \oslash\ \circledcirc\ \boxdot\ \bigtriangleup
-$$&lt;/p&gt;
-&lt;p&gt;$$
-\bigtriangledown\ \dagger\ \diamond\ \star\ \triangleleft\ \triangleright\ \angle\ \infty\ \prime\ \triangle
-$$&lt;/p&gt;
-&lt;h2 id=&#34;calculus&#34;&gt;Calculus&lt;/h2&gt;
-&lt;p&gt;$$
-\int u \frac{dv}{dx},dx=uv-\int \frac{du}{dx}v,dx
-$$&lt;/p&gt;
-&lt;p&gt;$$
-f(x) = \int_{-\infty}^\infty \hat f(\xi),e^{2 \pi i \xi x}
-$$&lt;/p&gt;
-&lt;p&gt;$$
-\oint \vec{F} \cdot d\vec{s}=0
-$$&lt;/p&gt;
-&lt;h2 id=&#34;lorenz-equations&#34;&gt;Lorenz Equations&lt;/h2&gt;
-&lt;p&gt;$$
-\begin{aligned} \dot{x} &amp;amp; = \sigma(y-x) \ \dot{y} &amp;amp; = \rho x - y - xz \ \dot{z} &amp;amp; = -\beta z + xy \end{aligned}
-$$&lt;/p&gt;
-&lt;h2 id=&#34;cross-product&#34;&gt;Cross Product&lt;/h2&gt;
-&lt;p&gt;This works in KaTeX, but the separation of fractions in this environment is not so good.&lt;/p&gt;
-&lt;p&gt;$$
-\mathbf{V}_1 \times \mathbf{V}_2 = \begin{vmatrix} \mathbf{i} &amp;amp; \mathbf{j} &amp;amp; \mathbf{k} \ \frac{\partial X}{\partial u} &amp;amp; \frac{\partial Y}{\partial u} &amp;amp; 0 \ \frac{\partial X}{\partial v} &amp;amp; \frac{\partial Y}{\partial v} &amp;amp; 0 \end{vmatrix}
-$$&lt;/p&gt;
-&lt;p&gt;Here&amp;rsquo;s a workaround: make the fractions smaller with an extra class that targets the spans with &amp;ldquo;mfrac&amp;rdquo; class (makes no difference in the MathJax case):&lt;/p&gt;
-&lt;p&gt;$$
-\mathbf{V}_1 \times \mathbf{V}_2 = \begin{vmatrix} \mathbf{i} &amp;amp; \mathbf{j} &amp;amp; \mathbf{k} \ \frac{\partial X}{\partial u} &amp;amp; \frac{\partial Y}{\partial u} &amp;amp; 0 \ \frac{\partial X}{\partial v} &amp;amp; \frac{\partial Y}{\partial v} &amp;amp; 0 \end{vmatrix}
-$$&lt;/p&gt;
-&lt;h2 id=&#34;accents&#34;&gt;Accents&lt;/h2&gt;
-&lt;p&gt;$$
-\hat{x}\ \vec{x}\ \ddot{x}
-$$&lt;/p&gt;
-&lt;h2 id=&#34;stretchy-brackets&#34;&gt;Stretchy brackets&lt;/h2&gt;
-&lt;p&gt;$$
-\left(\frac{x^2}{y^3}\right)
-$$&lt;/p&gt;
-&lt;h2 id=&#34;evaluation-at-limits&#34;&gt;Evaluation at limits&lt;/h2&gt;
-&lt;p&gt;$$
-\left.\frac{x^3}{3}\right|_0^1
-$$&lt;/p&gt;
-&lt;h2 id=&#34;case-definitions&#34;&gt;Case definitions&lt;/h2&gt;
-&lt;p&gt;$$
-f(n) = \begin{cases} \frac{n}{2}, &amp;amp; \text{if } n\text{ is even} \ 3n+1, &amp;amp; \text{if } n\text{ is odd} \end{cases}
-$$&lt;/p&gt;
-&lt;h2 id=&#34;maxwells-equations&#34;&gt;Maxwell&amp;rsquo;s Equations&lt;/h2&gt;
-&lt;p&gt;$$
-\begin{aligned} \nabla \times \vec{\mathbf{B}} -, \frac1c, \frac{\partial\vec{\mathbf{E}}}{\partial t} &amp;amp; = \frac{4\pi}{c}\vec{\mathbf{j}} \ \nabla \cdot \vec{\mathbf{E}} &amp;amp; = 4 \pi \rho \ \nabla \times \vec{\mathbf{E}}, +, \frac1c, \frac{\partial\vec{\mathbf{B}}}{\partial t} &amp;amp; = \vec{\mathbf{0}} \ \nabla \cdot \vec{\mathbf{B}} &amp;amp; = 0 \end{aligned}
-$$&lt;/p&gt;
-&lt;p&gt;These equations are quite cramped. We can add vertical spacing using (for example) [1em] after each line break (\). as you can see here:&lt;/p&gt;
-&lt;p&gt;$$
-\begin{aligned} \nabla \times \vec{\mathbf{B}} -, \frac1c, \frac{\partial\vec{\mathbf{E}}}{\partial t} &amp;amp; = \frac{4\pi}{c}\vec{\mathbf{j}} \[1em] \nabla \cdot \vec{\mathbf{E}} &amp;amp; = 4 \pi \rho \[0.5em] \nabla \times \vec{\mathbf{E}}, +, \frac1c, \frac{\partial\vec{\mathbf{B}}}{\partial t} &amp;amp; = \vec{\mathbf{0}} \[1em] \nabla \cdot \vec{\mathbf{B}} &amp;amp; = 0 \end{aligned}
-$$&lt;/p&gt;
-&lt;h2 id=&#34;statistics&#34;&gt;Statistics&lt;/h2&gt;
-&lt;p&gt;Definition of combination:&lt;/p&gt;
-&lt;p&gt;$$
-\frac{n!}{k!(n-k)!} = {^n}C_k
-{n \choose k}
-$$&lt;/p&gt;
-&lt;h2 id=&#34;fractions-on-fractions&#34;&gt;Fractions on fractions&lt;/h2&gt;
-&lt;p&gt;$$
-\frac{\frac{1}{x}+\frac{1}{y}}{y-z}
-$$&lt;/p&gt;
-&lt;h2 id=&#34;n-th-root&#34;&gt;n-th root&lt;/h2&gt;
-&lt;p&gt;$$
-\sqrt[n]{1+x+x^2+x^3+\ldots}
-$$&lt;/p&gt;
-&lt;h2 id=&#34;matrices&#34;&gt;Matrices&lt;/h2&gt;
-&lt;p&gt;$$
-\begin{pmatrix} a_{11} &amp;amp; a_{12} &amp;amp; a_{13}\ a_{21} &amp;amp; a_{22} &amp;amp; a_{23}\ a_{31} &amp;amp; a_{32} &amp;amp; a_{33} \end{pmatrix}
-\begin{bmatrix} 0 &amp;amp; \cdots &amp;amp; 0 \ \vdots &amp;amp; \ddots &amp;amp; \vdots \ 0 &amp;amp; \cdots &amp;amp; 0 \end{bmatrix}
-$$&lt;/p&gt;
-&lt;h2 id=&#34;punctuation&#34;&gt;Punctuation&lt;/h2&gt;
-&lt;p&gt;$$
-f(x) = \sqrt{1+x} \quad (x \ge -1)
-f(x) \sim x^2 \quad (x\to\infty)
-$$&lt;/p&gt;
-&lt;p&gt;Now with punctuation:&lt;/p&gt;
-&lt;p&gt;$$
-f(x) = \sqrt{1+x}, \quad x \ge -1
-f(x) \sim x^2, \quad x\to\infty
-$$&lt;/p&gt;</description>
       
     </item>
     
