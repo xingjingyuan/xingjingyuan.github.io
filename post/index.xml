@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>xingjingyuan@petalmail.com</copyright>
-    <lastBuildDate>Mon, 16 Oct 2023 14:30:47 +0800</lastBuildDate><atom:link href="http://xingjingyuan.cn/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jan 2024 14:30:47 +0800</lastBuildDate><atom:link href="http://xingjingyuan.cn/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aristo行者孙</title>
+      <link>http://xingjingyuan.cn/post/100%E7%A4%BA%E4%BE%8B/</link>
+      <pubDate>Mon, 01 Jan 2024 14:30:47 +0800</pubDate>
+      
+      <guid>http://xingjingyuan.cn/post/100%E7%A4%BA%E4%BE%8B/</guid>
+      <description>文章模版</description>
+    </item>
+    
+    <item>
+      <title>MBA课程</title>
+      <link>http://xingjingyuan.cn/post/32mba%E8%AF%BE%E7%A8%8B/</link>
+      <pubDate>Mon, 01 Jan 2024 14:30:47 +0800</pubDate>
+      
+      <guid>http://xingjingyuan.cn/post/32mba%E8%AF%BE%E7%A8%8B/</guid>
+      <description>财务管理：基本现象、管理目标、激励效应；资金时间价值、现金与未来值、风险规避；财务报表与财务指标、经营策略与财务策略、经营风险与财务风险、财</description>
+    </item>
+    
     <item>
       <title>逻辑树</title>
       <link>http://xingjingyuan.cn/post/33%E9%80%BB%E8%BE%91%E6%A0%91/</link>
@@ -168,29 +186,6 @@
       
       <guid>http://xingjingyuan.cn/post/9-github%E8%AE%BF%E9%97%AE/</guid>
       <description>为什么会访问失败或者速度很慢？ 国内网络访问 Github 速度过慢的原因有许多，但其中最直接和原因是其 CND 域名遭到 DNS 污染，导致我们无法连接使用 GitHub 的加速服务，</description>
-    </item>
-    
-    <item>
-      <title>Demo: more Shortcodes</title>
-      <link>http://xingjingyuan.cn/post/7-shortcodes-preview/</link>
-      <pubDate>Sat, 07 Jan 2023 16:01:23 +0800</pubDate>
-      
-      <guid>http://xingjingyuan.cn/post/7-shortcodes-preview/</guid>
-      <description>&lt;h2 id=&#34;what-a-shortcode-is&#34;&gt;What a Shortcode is&lt;/h2&gt;
-&lt;p&gt;Hugo loves Markdown because of its simple content format, but there are times when Markdown falls short. Often, content authors are forced to add raw HTML (e.g., video &lt;code&gt;&amp;lt;iframes&amp;gt;&lt;/code&gt;) to Markdown content. We think this contradicts the beautiful simplicity of Markdown&amp;rsquo;s syntax.&lt;/p&gt;
-&lt;p&gt;Hugo created &lt;strong&gt;shortcodes&lt;/strong&gt; to circumvent these limitations.&lt;/p&gt;
-&lt;p&gt;A shortcode is a simple snippet inside a content file that Hugo will render using a predefined template. Note that shortcodes will not work in template files. If you need the type of drop-in functionality that shortcodes provide but in a template, you most likely want a [partial template][partials] instead.&lt;/p&gt;
-&lt;p&gt;In addition to cleaner Markdown, shortcodes can be updated any time to reflect new classes, techniques, or standards. At the point of site generation, Hugo shortcodes will easily merge in your changes. You avoid a possibly complicated search and replace operation.&lt;/p&gt;
-&lt;p&gt;More details: &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/&#34;&gt;https://gohugo.io/content-management/shortcodes/&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Demo: Shortcodes Notice</title>
-      <link>http://xingjingyuan.cn/post/6-shortcode-notice/</link>
-      <pubDate>Fri, 06 Jan 2023 16:01:23 +0800</pubDate>
-      
-      <guid>http://xingjingyuan.cn/post/6-shortcode-notice/</guid>
-      <description>normal use Note example: {{% notice note %}} A notice disclaimer {{% /notice %}} Result: You could custom title : {{% notice note 笔记 %}} A notice disclaimer {{% /notice %}} tip {{% notice tip %}} A tip disclaimer {{% /tip %}} info {{% notice info %}} A info disclaimer {{% /notice %}} warning {{% notice warning %}} A warning disclaimer {{% /notice %}}</description>
     </item>
     
   </channel>

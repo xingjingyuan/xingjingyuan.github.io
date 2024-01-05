@@ -7,10 +7,62 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>xingjingyuan@petalmail.com</copyright>
-    <lastBuildDate>Mon, 16 Oct 2023 14:30:47 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2024 14:30:47 +0800</lastBuildDate>
     
         <atom:link href="http://xingjingyuan.cn/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Aristo行者孙</title>
+      <link>http://xingjingyuan.cn/post/100%E7%A4%BA%E4%BE%8B/</link>
+      <pubDate>Mon, 01 Jan 2024 14:30:47 +0800</pubDate>
+      
+      <guid>http://xingjingyuan.cn/post/100%E7%A4%BA%E4%BE%8B/</guid>
+      
+        <description>&lt;p&gt;文章模版&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>MBA课程</title>
+      <link>http://xingjingyuan.cn/post/32mba%E8%AF%BE%E7%A8%8B/</link>
+      <pubDate>Mon, 01 Jan 2024 14:30:47 +0800</pubDate>
+      
+      <guid>http://xingjingyuan.cn/post/32mba%E8%AF%BE%E7%A8%8B/</guid>
+      
+        <description>&lt;p&gt;财务管理：基本现象、管理目标、激励效应；资金时间价值、现金与未来值、风险规避；财务报表与财务指标、经营策略与财务策略、经营风险与财务风险、财务战略矩阵、辅助思考资料
+现金管理、应收账款与存货管理、固定资产与无形资产管理；概述及案例，自有资金及债务筹集、风险资金筹集、资本成本、杠杆、资本结构；投资决策与风险、证券投资分析、企业投资价值评估&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;		大数据与商业分析、
+		
+		管理经济学
+		
+		管理信息系统
+		
+		会计学
+		
+		人力资源管理
+		
+		商务英语
+		
+		商业伦理
+		
+		社会主义市场经济
+		
+		数量决策方法（商业管理运筹学）
+		
+		项目管理
+		
+		营销管理
+		
+		运营管理
+		
+		战略管理及模拟
+		
+		组织行为学&lt;/code&gt;&lt;/pre&gt;
+</description>
+      
+    </item>
     
     <item>
       <title>逻辑树</title>
@@ -1019,418 +1071,6 @@ ping 192.30.253.112  # 这个IP也可以响应，来自中国香港&lt;/p&gt;
 &lt;h1 id=&#34;end-of-the-section&#34;&gt;End of the section&lt;/h1&gt;
 &lt;p&gt;防杠精备用&lt;/p&gt;
 &lt;p&gt;本文数字及部分资料出自以下资料：&lt;/p&gt;
-</description>
-      
-    </item>
-    
-    <item>
-      <title>Demo: more Shortcodes</title>
-      <link>http://xingjingyuan.cn/post/7-shortcodes-preview/</link>
-      <pubDate>Sat, 07 Jan 2023 16:01:23 +0800</pubDate>
-      
-      <guid>http://xingjingyuan.cn/post/7-shortcodes-preview/</guid>
-      
-        <description>&lt;h2 id=&#34;what-a-shortcode-is&#34;&gt;What a Shortcode is&lt;/h2&gt;
-&lt;p&gt;Hugo loves Markdown because of its simple content format, but there are times when Markdown falls short. Often, content authors are forced to add raw HTML (e.g., video &lt;code&gt;&amp;lt;iframes&amp;gt;&lt;/code&gt;) to Markdown content. We think this contradicts the beautiful simplicity of Markdown&amp;rsquo;s syntax.&lt;/p&gt;
-&lt;p&gt;Hugo created &lt;strong&gt;shortcodes&lt;/strong&gt; to circumvent these limitations.&lt;/p&gt;
-&lt;p&gt;A shortcode is a simple snippet inside a content file that Hugo will render using a predefined template. Note that shortcodes will not work in template files. If you need the type of drop-in functionality that shortcodes provide but in a template, you most likely want a [partial template][partials] instead.&lt;/p&gt;
-&lt;p&gt;In addition to cleaner Markdown, shortcodes can be updated any time to reflect new classes, techniques, or standards. At the point of site generation, Hugo shortcodes will easily merge in your changes. You avoid a possibly complicated search and replace operation.&lt;/p&gt;
-&lt;p&gt;More details: &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/&#34;&gt;https://gohugo.io/content-management/shortcodes/&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;blockquotes&#34;&gt;blockquotes&lt;/h2&gt;
-&lt;p&gt;Normal quote:
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-&lt;blockquote&gt;
-  &lt;p&gt;This is a simple quote.&lt;/p&gt;
-  &lt;footer&gt;
-    &lt;strong&gt;&lt;/strong&gt;
-    
-      
-        
-      
-    
-  &lt;/footer&gt;
-&lt;/blockquote&gt;
-&lt;/p&gt;
-&lt;p&gt;Quote with author:
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-  
-
-
-
-
-
-  
-
-
-&lt;blockquote&gt;
-  &lt;p&gt;This is a quote with only an Author named Author2.&lt;/p&gt;
-  &lt;footer&gt;
-    &lt;strong&gt;Author2&lt;/strong&gt;
-    
-      
-        
-      
-    
-  &lt;/footer&gt;
-&lt;/blockquote&gt;
-&lt;/p&gt;
-&lt;p&gt;Quote with author and source:
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-  
-
-
-
-
-
-  
-
-
-&lt;blockquote&gt;
-  &lt;p&gt;This is a quote from Author3 and source &amp;ldquo;source.&amp;rdquo;&lt;/p&gt;
-  &lt;footer&gt;
-    &lt;strong&gt;Author3&lt;/strong&gt;
-    
-      &lt;cite&gt;Source&lt;/cite&gt;
-    
-  &lt;/footer&gt;
-&lt;/blockquote&gt;
-&lt;/p&gt;
-&lt;p&gt;Quote with author and link:
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-  
-
-
-
-
-
-      
-      
-      
-    
-     
-      
-    
-    
-
-    
-    
-  
-
-
-&lt;blockquote&gt;
-  &lt;p&gt;This is a quote from Author4 and links to &lt;a href=&#34;https://www.google.com&#34;&gt;https://www.google.com&lt;/a&gt;.&lt;/p&gt;
-  &lt;footer&gt;
-    &lt;strong&gt;Author4&lt;/strong&gt;
-    
-      
-        &lt;cite&gt;
-          &lt;a href=&#34;https://www.google.com&#34; title=&#34;https://www.google.com&#34;&gt;google.com&lt;/a&gt; 
-        &lt;/cite&gt;
-      
-    
-  &lt;/footer&gt;
-&lt;/blockquote&gt;
-&lt;/p&gt;
-&lt;p&gt;Quote with author, link and title:
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-  
-
-
-
-
-
-  
-
-
-&lt;blockquote&gt;
-  &lt;p&gt;This is a quote from Author5 and links to &lt;a href=&#34;https://www.google.com&#34;&gt;https://www.google.com&lt;/a&gt; with title &amp;ldquo;Google.&amp;rdquo;&lt;/p&gt;
-  &lt;footer&gt;
-    &lt;strong&gt;Author5&lt;/strong&gt;
-    
-      
-        &lt;cite&gt;
-          &lt;a href=&#34;https://www.google.com&#34; title=&#34;https://www.google.com&#34;&gt;Google&lt;/a&gt; 
-        &lt;/cite&gt;
-      
-    
-  &lt;/footer&gt;
-&lt;/blockquote&gt;
-&lt;/p&gt;
-&lt;p&gt;Quote with author and a link longer than 32 characters, string is first cut at 32 characters then everything after the last forward slash is removed
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-  
-
-
-
-
-
-      
-      
-      
-    
-     
-      
-    
-    
-
-    
-    
-         
-         
-         
-
-         
-        
-        
-        
-        
-      
-      
-    
-  
-
-
-&lt;blockquote&gt;
-  &lt;p&gt;This is a quote from Author5 and links to &lt;a href=&#34;https://twitter.com/CryptoGangsta/status/716427930126196737&#34;&gt;https://twitter.com/CryptoGangsta/status/716427930126196737&lt;/a&gt; which is longer than 32 characters.
-&lt;!-- raw HTML omitted --&gt;And this is a new line in the quote with the HTML br tag.&lt;/p&gt;
-  &lt;footer&gt;
-    &lt;strong&gt;Author6&lt;/strong&gt;
-    
-      
-        &lt;cite&gt;
-          &lt;a href=&#34;https://twitter.com/CryptoGangsta/status/716427930126196737&#34; title=&#34;https://twitter.com/CryptoGangsta/status/716427930126196737&#34;&gt;twitter.com/CryptoGangsta/...&lt;/a&gt; 
-        &lt;/cite&gt;
-      
-    
-  &lt;/footer&gt;
-&lt;/blockquote&gt;
-&lt;/p&gt;
-&lt;p&gt;Test from the Octopress blockquote page at: &lt;a href=&#34;http://octopress.org/docs/plugins/blockquote/&#34;&gt;http://octopress.org/docs/plugins/blockquote/&lt;/a&gt;
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-  
-
-
-
-
-
-      
-      
-      
-    
-     
-      
-    
-    
-
-    
-    
-         
-         
-         
-
-         
-        
-        
-        
-        
-        
-        
-      
-      
-    
-  
-
-
-&lt;blockquote&gt;
-  &lt;p&gt;Over the past 24 hours I&amp;rsquo;ve been reflecting on my life &amp;amp; I&amp;rsquo;ve realized only one thing. I need a medieval battle axe.&lt;/p&gt;
-  &lt;footer&gt;
-    &lt;strong&gt;@allanbranch&lt;/strong&gt;
-    
-      
-        &lt;cite&gt;
-          &lt;a href=&#34;https://twitter.com/allanbranch/status/90766146063712256&#34; title=&#34;https://twitter.com/allanbranch/status/90766146063712256&#34;&gt;twitter.com/allanbranch/status/...&lt;/a&gt; 
-        &lt;/cite&gt;
-      
-    
-  &lt;/footer&gt;
-&lt;/blockquote&gt;
-&lt;/p&gt;
-&lt;h2 id=&#34;music&#34;&gt;music&lt;/h2&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;h2 id=&#34;gist&#34;&gt;gist&lt;/h2&gt;
-&lt;p&gt;We can embed the gist in our content via username and gist ID pulled from the URL:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{&amp;lt; gist spf13 7896402 &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Display:&lt;/p&gt;
-&lt;script type=&#34;application/javascript&#34; src=&#34;https://gist.github.com/spf13/7896402.js&#34;&gt;&lt;/script&gt;
-
-&lt;h2 id=&#34;expand&#34;&gt;expand&lt;/h2&gt;
-&lt;p&gt;The Expand shortcode displays an expandable/collapsible section of text on your page. Here is an example&lt;/p&gt;
-&lt;details&gt;
-  &lt;summary style=&#34;background-color:#f5f5f5;border:1px solid #ccc;padding:5px;&#34;&gt;
-    Is this learn theme rocks ?
-    
-  &lt;/summary&gt;
-  Yes !.
-&lt;/details&gt;
-
-&lt;h3 id=&#34;usage&#34;&gt;Usage&lt;/h3&gt;
-&lt;p&gt;this shortcode takes exactly one optional parameter to define the text that appears next to the expand/collapse icon. (default is “Click to expand”)&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{&amp;lt; expand &amp;#34;Is this learn theme rocks ?&amp;#34; &amp;gt;}}
-Yes !.
-{{&amp;lt; /expand &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;youtube&#34;&gt;youtube&lt;/h2&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/w7Ft2ymGmfc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;vimeo&#34;&gt;vimeo&lt;/h2&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/146022717&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;youku&#34;&gt;youku&lt;/h2&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-    &lt;iframe src=&#34;https://player.youku.com/embed/XNDc2NTQxOTQyNA?autoplay=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouKu Video&#34;&gt;
-    &lt;/iframe&gt;
-&lt;/div&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Demo: Shortcodes Notice</title>
-      <link>http://xingjingyuan.cn/post/6-shortcode-notice/</link>
-      <pubDate>Fri, 06 Jan 2023 16:01:23 +0800</pubDate>
-      
-      <guid>http://xingjingyuan.cn/post/6-shortcode-notice/</guid>
-      
-        <description>&lt;h2 id=&#34;normal-use&#34;&gt;normal use&lt;/h2&gt;
-&lt;p&gt;&lt;code&gt;Note&lt;/code&gt; example:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-shortcode&#34; data-lang=&#34;shortcode&#34;&gt;{{% notice note %}}
-A notice disclaimer
-{{% /notice %}}
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;You could &lt;strong&gt;custom title&lt;/strong&gt; :&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-shortcode&#34; data-lang=&#34;shortcode&#34;&gt;{{% notice note 笔记 %}}
-A notice disclaimer
-{{% /notice %}}
-&lt;/code&gt;&lt;/pre&gt;&lt;!-- raw HTML omitted --&gt;
-&lt;h2 id=&#34;tip&#34;&gt;tip&lt;/h2&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-shortcode&#34; data-lang=&#34;shortcode&#34;&gt;{{% notice tip %}}
-A tip disclaimer
-{{% /tip %}}
-&lt;/code&gt;&lt;/pre&gt;&lt;!-- raw HTML omitted --&gt;
-&lt;h2 id=&#34;info&#34;&gt;info&lt;/h2&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-shortcode&#34; data-lang=&#34;shortcode&#34;&gt;{{% notice info %}}
-A info disclaimer
-{{% /notice %}}
-&lt;/code&gt;&lt;/pre&gt;&lt;!-- raw HTML omitted --&gt;
-&lt;h2 id=&#34;warning&#34;&gt;warning&lt;/h2&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-shortcode&#34; data-lang=&#34;shortcode&#34;&gt;{{% notice warning %}}
-A warning disclaimer
-{{% /notice %}}
-&lt;/code&gt;&lt;/pre&gt;&lt;!-- raw HTML omitted --&gt;
 </description>
       
     </item>
