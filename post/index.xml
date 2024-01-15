@@ -18,6 +18,15 @@
     </item>
     
     <item>
+      <title>keywords</title>
+      <link>http://xingjingyuan.cn/post/34keywprds/</link>
+      <pubDate>Mon, 01 Jan 2024 14:30:47 +0800</pubDate>
+      
+      <guid>http://xingjingyuan.cn/post/34keywprds/</guid>
+      <description>批判的武器不能代替武器的批判 读万卷书 行万里路 阅万种人 不忘初心 教育风口落后于资本风口 山河四省不容易 圈地运动 以个人选择决策与影响为出发点的历史观</description>
+    </item>
+    
+    <item>
       <title>MBA课程</title>
       <link>http://xingjingyuan.cn/post/32mba%E8%AF%BE%E7%A8%8B/</link>
       <pubDate>Mon, 01 Jan 2024 14:30:47 +0800</pubDate>
@@ -177,15 +186,6 @@
       
       <guid>http://xingjingyuan.cn/post/10-hogoinstall/</guid>
       <description>1、下载hugo Windows版本 2、将hugo路径添加到环境变量 3、快速创建网站 Hugo new site xingjingyuan 4、下载模版，遇到无法获取问题。 解决：通过git取</description>
-    </item>
-    
-    <item>
-      <title>github访问</title>
-      <link>http://xingjingyuan.cn/post/9-github%E8%AE%BF%E9%97%AE/</link>
-      <pubDate>Wed, 08 Feb 2023 14:29:47 +0800</pubDate>
-      
-      <guid>http://xingjingyuan.cn/post/9-github%E8%AE%BF%E9%97%AE/</guid>
-      <description>为什么会访问失败或者速度很慢？ 国内网络访问 Github 速度过慢的原因有许多，但其中最直接和原因是其 CND 域名遭到 DNS 污染，导致我们无法连接使用 GitHub 的加速服务，</description>
     </item>
     
   </channel>
