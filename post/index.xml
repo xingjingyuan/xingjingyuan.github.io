@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>xingjingyuan@petalmail.com</copyright>
-    <lastBuildDate>Fri, 05 Jan 2024 14:30:47 +0800</lastBuildDate><atom:link href="http://xingjingyuan.cn/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Apr 2024 14:30:47 +0800</lastBuildDate><atom:link href="http://xingjingyuan.cn/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>古城邢台的建城四祖：黄帝、祖乙、邢靖渊、赵襄子 </title>
+      <link>http://xingjingyuan.cn/post/36%E5%8F%A4%E5%9F%8E%E9%82%A2%E5%8F%B0%E7%9A%84%E5%BB%BA%E5%9F%8E%E5%9B%9B%E7%A5%96%E9%BB%84%E5%B8%9D%E7%A5%96%E4%B9%99%E9%82%A2%E9%9D%96%E6%B8%8A%E8%B5%B5%E8%A5%84%E5%AD%90/</link>
+      <pubDate>Sun, 28 Apr 2024 14:30:47 +0800</pubDate>
+      
+      <guid>http://xingjingyuan.cn/post/36%E5%8F%A4%E5%9F%8E%E9%82%A2%E5%8F%B0%E7%9A%84%E5%BB%BA%E5%9F%8E%E5%9B%9B%E7%A5%96%E9%BB%84%E5%B8%9D%E7%A5%96%E4%B9%99%E9%82%A2%E9%9D%96%E6%B8%8A%E8%B5%B5%E8%A5%84%E5%AD%90/</guid>
+      <description>邢台有三千五百年建城历史，在邢台形成城市历史上，早期的轩辕黄帝、祖乙、邢靖渊、赵襄子起到重要作用，被尊为邢台建城四祖。 一、轩辕黄帝凿井筑邑 上</description>
+    </item>
+    
     <item>
       <title>keywords</title>
       <link>http://xingjingyuan.cn/post/34keywprds/</link>
@@ -24,6 +33,15 @@
       
       <guid>http://xingjingyuan.cn/post/100%E7%A4%BA%E4%BE%8B/</guid>
       <description>文章模版</description>
+    </item>
+    
+    <item>
+      <title>Aristo行者孙</title>
+      <link>http://xingjingyuan.cn/post/35%E8%B4%A2%E5%8A%A1%E6%80%BB%E7%BB%93/</link>
+      <pubDate>Mon, 01 Jan 2024 14:30:47 +0800</pubDate>
+      
+      <guid>http://xingjingyuan.cn/post/35%E8%B4%A2%E5%8A%A1%E6%80%BB%E7%BB%93/</guid>
+      <description>1、国资委一利五率：利润总额、资产负债率、研发投入比率、全员劳动生产率、净资产收益率（股东权益报酬率ROE）、营业现金比率 2、三张报表： 资产</description>
     </item>
     
     <item>
@@ -168,24 +186,6 @@
       
       <guid>http://xingjingyuan.cn/post/13%E5%BB%BA%E8%AE%BE%E9%A1%B9%E7%9B%AE%E6%8A%95%E8%B5%84/</guid>
       <description>防杠精备用 本文数字及部分资料出自以下资料：</description>
-    </item>
-    
-    <item>
-      <title>股权经营纳税</title>
-      <link>http://xingjingyuan.cn/post/10%E8%82%A1%E6%9D%83%E7%BB%8F%E8%90%A5/</link>
-      <pubDate>Sun, 05 Mar 2023 14:30:47 +0800</pubDate>
-      
-      <guid>http://xingjingyuan.cn/post/10%E8%82%A1%E6%9D%83%E7%BB%8F%E8%90%A5/</guid>
-      <description>民营企业的方向：一般竞争类，创新，满足民众生活，对外出口，比如教培，婚纱摄影。 北京、上海、广州、深圳、南京、杭州、武汉、天津、成都、重庆 个体</description>
-    </item>
-    
-    <item>
-      <title>Hogo安装过程</title>
-      <link>http://xingjingyuan.cn/post/10-hogoinstall/</link>
-      <pubDate>Tue, 28 Feb 2023 14:30:47 +0800</pubDate>
-      
-      <guid>http://xingjingyuan.cn/post/10-hogoinstall/</guid>
-      <description>1、下载hugo Windows版本 2、将hugo路径添加到环境变量 3、快速创建网站 Hugo new site xingjingyuan 4、下载模版，遇到无法获取问题。 解决：通过git取</description>
     </item>
     
   </channel>
